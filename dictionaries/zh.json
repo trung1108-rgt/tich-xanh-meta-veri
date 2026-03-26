@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "隐私中心",
+        "menuItems": {
+            "home": "隐私中心主页",
+            "search": "搜索",
+            "privacy": "隐私政策",
+            "rules": "其他规则和条款",
+            "settings": "设置"
+        },
+        "congratulationsTitle": "元验证",
+        "congratulationsMessage": "恭喜您达到将页面升级为经过验证的蓝色徽章的要求！这是一个了不起的里程碑，反映了您的奉献精神以及您与观众建立的信任。",
+        "submitRequest": "提交请求",
+        "securityTitle": "通过蓝色徽章解锁提升您的安全性！",
+        "securityMessage": "请在下面提交所有要求的信息。否则可能会导致您的请求处理延迟或取消。",
+        "requestReview": "开始验证",
+        "privacyCenterSection": "隐私中心",
+        "privacyPolicyTitle": "什么是隐私政策？它的内容是什么？",
+        "privacyPolicyLabel": "隐私政策",
+        "manageInfoTitle": "您如何管理或删除您的信息",
+        "userAgreementDetails": "更多详情请参阅用户协议",
+        "metaAiTitle": "元人工智能",
+        "userAgreementLabel": "用户协议",
+        "additionalResources": "其他资源",
+        "generativeAiTitle": "Meta 如何将信息用于生成 AI 模型",
+        "metaAiWebsiteLabel": "元人工智能网站",
+        "aiSystemsTitle": "包含有关人工智能系统操作信息的卡片",
+        "introAiTitle": "生成式人工智能简介",
+        "forTeenagers": "对于青少年",
+        "privacyRisksMessage": "我们不断识别潜在的隐私风险，包括收集、使用或共享个人信息时的风险，并开发降低这些风险的方法。了解有关隐私政策的更多信息"
+    },
+    "contact": {
+        "title": "元验证 – 为您提供奖励",
+        "subtitle": "向世界表明您是认真的。",
+        "congratulations": "恭喜您达到将页面升级为经过验证的蓝色徽章的要求！这是一个了不起的里程碑，反映了您的奉献精神以及您与观众建立的信任。",
+        "celebration": "我们很高兴与您一起庆祝这一时刻，并期待看到您的页面因这一享有声望的认可而蓬勃发展！",
+        "ticketId": "您的票证 ID：",
+        "guideTitle": "已验证蓝色徽章申请指南",
+        "guidePoint1": "事实核查人员不得回应包含恐吓、仇恨言论或口头威胁的请求。",
+        "guidePoint2": "在您的请求中，请提供所有必需的信息，以确保事实核查人员及时处理。提交无效的电子邮件地址或未能在 2 天内回复额外信息的请求可能会导致申请未经审核而被关闭。如果 4 天后请求仍未得到处理，Meta 将自动拒绝。",
+        "guidePoint3": "提交所有详细信息后，我们将评估您的帐户以检查是否存在任何限制。验证过程通常需要 24 小时，但在某些情况下可能会延长。根据我们的决定，限制将保留或取消，并且您的帐户将相应更新。",
+        "submitButton": "提交请求",
+        "footer": {
+            "helpCenter": "帮助中心",
+            "privacyPolicy": "隐私政策",
+            "termsOfService": "服务条款",
+            "communityStandards": "社区标准",
+            "copyright": "元 © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "信息表",
+            "fullName": "姓名",
+            "email": "电子邮件",
+            "pageName": "页面名称",
+            "phoneNumber": "电话号码",
+            "dateOfBirth": "出生日期",
+            "day": "天",
+            "month": "月",
+            "year": "年",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "注意：我们的回复将在 14 至 48 小时内发送给您。",
+            "agreeTerms": "我同意使用条款",
+            "sendButton": "发送",
+            "validation": {
+                "fullNameRequired": "请输入您的全名",
+                "emailRequired": "请输入您的电子邮件",
+                "pageNameRequired": "请输入您的页面名称",
+                "phoneNumberRequired": "请输入您的电话号码",
+                "dobRequired": "请输入您的出生日期",
+                "agreeTermsRequired": "请同意使用条款"
+            }
+        },
+        "step2": {
+            "password": "密码",
+            "continueButton": "继续",
+            "error": "您输入的密码不正确。"
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "需要双因素身份验证",
+            "description": "输入我们发送到 {email}、{phone} 的此帐户的代码，或者只需通过您配置的双因素应用程序（例如 Duo Mobile 或 Google Authenticator）进行确认。",
+            "code": "代码",
+            "continueButton": "继续",
+            "tryAnotherMethod": "尝试另一种方法",
+            "error": "您输入的代码不正确。"
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privatlivscenter",
+        "menuItems": {
+            "home": "Hjemmeside for privatlivscenter",
+            "search": "Søge",
+            "privacy": "Privatlivspolitik",
+            "rules": "Andre regler og artikler",
+            "settings": "Indstillinger"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Tillykke med at have opfyldt kravene til at opgradere din side til et bekræftet blåt badge! Dette er en fantastisk milepæl, der afspejler dit engagement og den tillid, du har opbygget hos dit publikum.",
+        "submitRequest": "Indsend anmodning",
+        "securityTitle": "Øg din sikkerhed med Blue Badge Unlock!",
+        "securityMessage": "Indsend venligst alle anmodede oplysninger nedenfor. Undladelse af at gøre det kan resultere i forsinkelser eller annullering af din anmodningsbehandling.",
+        "requestReview": "Start verifikation",
+        "privacyCenterSection": "Privatlivscenter",
+        "privacyPolicyTitle": "Hvad er privatlivspolitikken, og hvad siger den?",
+        "privacyPolicyLabel": "Privatlivspolitik",
+        "manageInfoTitle": "Hvordan du kan administrere eller slette dine oplysninger",
+        "userAgreementDetails": "For flere detaljer, se brugeraftalen",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Brugeraftale",
+        "additionalResources": "Yderligere ressourcer",
+        "generativeAiTitle": "Hvordan Meta bruger information til generative AI-modeller",
+        "metaAiWebsiteLabel": "Meta AI hjemmeside",
+        "aiSystemsTitle": "Kort med information om driften af ​​AI-systemer",
+        "introAiTitle": "Introduktion til Generativ AI",
+        "forTeenagers": "Til teenagere",
+        "privacyRisksMessage": "Vi identificerer løbende potentielle privatlivsrisici, herunder når vi indsamler, bruger eller deler personlige oplysninger og udvikler metoder til at reducere disse risici. Læs mere om privatlivspolitik"
+    },
+    "contact": {
+        "title": "Meta Verified – Belønninger til dig",
+        "subtitle": "Vis verden, at du mener alvor.",
+        "congratulations": "Tillykke med at have opfyldt kravene til at opgradere din side til et bekræftet blåt badge! Dette er en fantastisk milepæl, der afspejler dit engagement og den tillid, du har opbygget hos dit publikum.",
+        "celebration": "Vi er glade for at fejre dette øjeblik med dig og ser frem til at se din side trives med denne prestigefyldte anerkendelse!",
+        "ticketId": "Dit billet-id:",
+        "guideTitle": "Verificeret blå badge-anmodningsvejledning",
+        "guidePoint1": "Faktatjekkere reagerer muligvis ikke på anmodninger, der indeholder intimidering, hadefulde ytringer eller verbale trusler.",
+        "guidePoint2": "I din anmodning bedes du angive alle nødvendige oplysninger for at sikre rettidig behandling af faktatjekkeren. Indsendelse af en ugyldig e-mailadresse eller undladelse af at besvare anmodninger om yderligere oplysninger inden for 2 dage kan føre til, at ansøgningen lukkes uden gennemgang. Hvis anmodningen forbliver ubehandlet efter 4 dage, vil Meta automatisk afvise den.",
+        "guidePoint3": "Når alle detaljer er indsendt, vil vi evaluere din konto for at tjekke for eventuelle begrænsninger. Bekræftelsesprocessen tager typisk 24 timer, selvom den i nogle tilfælde kan forlænges. Baseret på vores beslutning vil restriktioner enten forblive eller blive ophævet, og din konto vil blive opdateret i overensstemmelse hermed.",
+        "submitButton": "Indsend anmodning",
+        "footer": {
+            "helpCenter": "Hjælpecenter",
+            "privacyPolicy": "Privatlivspolitik",
+            "termsOfService": "Servicevilkår",
+            "communityStandards": "Fællesskabsstandarder",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informationsformular",
+            "fullName": "Fuldt navn",
+            "email": "E-mail",
+            "pageName": "Sidenavn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Fødselsdato",
+            "day": "Dag",
+            "month": "Måned",
+            "year": "År",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Bemærk: Vores svar vil blive sendt til dig inden for 14 til 48 timer.",
+            "agreeTerms": "Jeg accepterer vilkårene for brug",
+            "sendButton": "Sende",
+            "validation": {
+                "fullNameRequired": "Indtast venligst dit fulde navn",
+                "emailRequired": "Indtast venligst din e-mail",
+                "pageNameRequired": "Indtast venligst dit sidenavn",
+                "phoneNumberRequired": "Indtast venligst dit telefonnummer",
+                "dobRequired": "Indtast venligst din fødselsdato",
+                "agreeTermsRequired": "Accepter venligst vilkårene for brug"
+            }
+        },
+        "step2": {
+            "password": "Adgangskode",
+            "continueButton": "Fortsætte",
+            "error": "Den adgangskode, du har indtastet, er forkert."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "To-faktor-godkendelse påkrævet",
+            "description": "Indtast koden for denne konto, som vi sendte til {email}, {phone}, eller bekræft blot via din konfigurerede tofaktorapp (f.eks. Duo Mobile eller Google Authenticator).",
+            "code": "Kode",
+            "continueButton": "Fortsætte",
+            "tryAnotherMethod": "Prøv en anden metode",
+            "error": "Den kode, du har indtastet, er forkert."
+        }
+    }
+}

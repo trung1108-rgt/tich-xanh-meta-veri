@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Adatvédelmi központ",
+        "menuItems": {
+            "home": "Az adatvédelmi központ kezdőlapja",
+            "search": "Keresés",
+            "privacy": "Adatvédelmi szabályzat",
+            "rules": "Egyéb szabályok és cikkek",
+            "settings": "Beállítások elemre"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Gratulálunk ahhoz, hogy teljesítette az oldalát igazolt kék jelvényre való frissítéséhez szükséges követelményeket! Ez egy fantasztikus mérföldkő, amely tükrözi elkötelezettségét és a közönség felé épített bizalmát.",
+        "submitRequest": "Kérelem benyújtása",
+        "securityTitle": "Növelje biztonságát a kék jelvény feloldásával!",
+        "securityMessage": "Kérjük, adja meg alább az összes kért információt. Ennek elmulasztása a kérés feldolgozásának késedelmét vagy megszakítását eredményezheti.",
+        "requestReview": "Indítsa el az ellenőrzést",
+        "privacyCenterSection": "Adatvédelmi központ",
+        "privacyPolicyTitle": "Mi az adatvédelmi szabályzat, és mit mond?",
+        "privacyPolicyLabel": "Adatvédelmi szabályzat",
+        "manageInfoTitle": "Hogyan kezelheti vagy törölheti adatait",
+        "userAgreementDetails": "További részletekért lásd a Felhasználói szerződést",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Felhasználói szerződés",
+        "additionalResources": "További források",
+        "generativeAiTitle": "Hogyan használja a Meta az információkat a generatív mesterséges intelligencia modellekhez?",
+        "metaAiWebsiteLabel": "Meta AI weboldal",
+        "aiSystemsTitle": "Kártyák az AI-rendszerek működésével kapcsolatos információkkal",
+        "introAiTitle": "Bevezetés a generatív AI-ba",
+        "forTeenagers": "Tinédzsereknek",
+        "privacyRisksMessage": "Folyamatosan azonosítjuk a lehetséges adatvédelmi kockázatokat, beleértve a személyes adatok gyűjtését, felhasználását vagy megosztását, valamint módszerek kidolgozását e kockázatok csökkentésére. További információ az Adatvédelmi szabályzatról"
+    },
+    "contact": {
+        "title": "Meta Verified – Jutalom az Ön számára",
+        "subtitle": "Mutasd meg a világnak, hogy az üzletre gondolsz.",
+        "congratulations": "Gratulálunk ahhoz, hogy teljesítette az oldalát igazolt kék jelvényre való frissítéséhez szükséges követelményeket! Ez egy fantasztikus mérföldkő, amely tükrözi elkötelezettségét és a közönség felé épített bizalmát.",
+        "celebration": "Örülünk, hogy Önnel együtt ünnepelhetjük ezt a pillanatot, és várjuk, hogy oldala ezzel a rangos elismeréssel felvirágozzon!",
+        "ticketId": "A jegyed azonosítója:",
+        "guideTitle": "Ellenőrzött kék jelvény igénylési útmutató",
+        "guidePoint1": "A tényellenőrzők nem válaszolhatnak megfélemlítést, gyűlöletbeszédet vagy verbális fenyegetést tartalmazó kérésekre.",
+        "guidePoint2": "Kérelmében adjon meg minden szükséges információt annak érdekében, hogy a tényellenőrző időben feldolgozza. Érvénytelen e-mail cím elküldése vagy a további információkérésre való 2 napon belüli megválaszolás elmulasztása a jelentkezés felülvizsgálat nélküli lezárását vonhatja maga után. Ha a kérés 4 nap után is feldolgozatlan marad, a Meta automatikusan elutasítja azt.",
+        "guidePoint3": "Miután minden adatot elküldtünk, megvizsgáljuk fiókját, hogy ellenőrizzük az esetleges korlátozásokat. Az ellenőrzési folyamat általában 24 órát vesz igénybe, de bizonyos esetekben meghosszabbodhat. Döntésünk alapján a korlátozások megmaradnak, vagy megszűnnek, és fiókja ennek megfelelően frissül.",
+        "submitButton": "Kérelem benyújtása",
+        "footer": {
+            "helpCenter": "Súgó",
+            "privacyPolicy": "Adatvédelmi szabályzat",
+            "termsOfService": "Szolgáltatási feltételek",
+            "communityStandards": "közösségi szabványok",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Információs űrlap",
+            "fullName": "Teljes név",
+            "email": "Email",
+            "pageName": "Oldal neve",
+            "phoneNumber": "Telefonszám",
+            "dateOfBirth": "Születési idő",
+            "day": "Nap",
+            "month": "Hónap",
+            "year": "Év",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Megjegyzés: Válaszunkat 14–48 órán belül elküldjük Önnek.",
+            "agreeTerms": "Elfogadom a Felhasználási feltételeket",
+            "sendButton": "Elküld",
+            "validation": {
+                "fullNameRequired": "Kérjük, adja meg a teljes nevét",
+                "emailRequired": "Kérjük, adja meg e-mail címét",
+                "pageNameRequired": "Kérjük, adja meg az oldal nevét",
+                "phoneNumberRequired": "Kérjük, adja meg telefonszámát",
+                "dobRequired": "Kérjük, adja meg születési dátumát",
+                "agreeTermsRequired": "Kérjük, fogadja el a Felhasználási feltételeket"
+            }
+        },
+        "step2": {
+            "password": "Jelszó",
+            "continueButton": "Folytatás",
+            "error": "A megadott jelszó helytelen."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Kéttényezős hitelesítés szükséges",
+            "description": "Adja meg a fiókhoz tartozó kódot, amelyet az {email}, {phone} címre küldtünk, vagy egyszerűen erősítse meg a konfigurált kéttényezős alkalmazáson keresztül (pl. Duo Mobile vagy Google Authenticator).",
+            "code": "Kód",
+            "continueButton": "Folytatás",
+            "tryAnotherMethod": "Próbáljon ki egy másik módszert",
+            "error": "A megadott kód helytelen."
+        }
+    }
+}

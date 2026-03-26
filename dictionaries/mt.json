@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Ċentru tal-Privatezza",
+        "menuItems": {
+            "home": "Home Page taċ-Ċentru tal-Privatezza",
+            "search": "Fittex",
+            "privacy": "Politika ta' Privatezza",
+            "rules": "Regoli u artikoli oħra",
+            "settings": "Settings"
+        },
+        "congratulationsTitle": "Meta Verifikat",
+        "congratulationsMessage": "Prosit talli ksibt ir-rekwiżiti biex taġġorna l-paġna tiegħek għal badge blu verifikata! Dan huwa tragward meraviljuż li jirrifletti d-dedikazzjoni tiegħek u l-fiduċja li bnejt mal-udjenza tiegħek.",
+        "submitRequest": "Ibgħat it-talba",
+        "securityTitle": "Għolli s-Sigurtà Tiegħek bil-Blue Badge Unlock!",
+        "securityMessage": "Jekk jogħġbok ibgħat l-informazzjoni kollha mitluba hawn taħt. In-nuqqas li tagħmel dan jista' jirriżulta f'dewmien jew kanċellazzjoni tal-ipproċessar tat-talba tiegħek.",
+        "requestReview": "Ibda l-verifika",
+        "privacyCenterSection": "Ċentru tal-Privatezza",
+        "privacyPolicyTitle": "X'inhi l-Politika ta' Privatezza u x'tgħid?",
+        "privacyPolicyLabel": "Politika ta' Privatezza",
+        "manageInfoTitle": "Kif tista' timmaniġġja jew tħassar l-informazzjoni tiegħek",
+        "userAgreementDetails": "Għal aktar dettalji, ara l-Ftehim tal-Utent",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Ftehim tal-Utent",
+        "additionalResources": "Riżorsi addizzjonali",
+        "generativeAiTitle": "Kif Meta tuża l-informazzjoni għal mudelli AI ġenerattivi",
+        "metaAiWebsiteLabel": "Websajt Meta AI",
+        "aiSystemsTitle": "Kards b'informazzjoni dwar it-tħaddim tas-sistemi AI",
+        "introAiTitle": "Introduzzjoni għall-AI Ġenerattiva",
+        "forTeenagers": "Għall-adoloxxenti",
+        "privacyRisksMessage": "Aħna kontinwament nidentifikaw riskji potenzjali għall-privatezza, inkluż meta niġbru, nużaw jew naqsmu informazzjoni personali, u niżviluppaw metodi biex innaqqsu dawn ir-riskji. Aqra aktar dwar il-Politika ta' Privatezza"
+    },
+    "contact": {
+        "title": "Meta Verifikat – Premjijiet għalik",
+        "subtitle": "Uri lid-dinja li inti tfisser negozju.",
+        "congratulations": "Prosit talli ksibt ir-rekwiżiti biex taġġorna l-paġna tiegħek għal badge blu verifikata! Dan huwa tragward meraviljuż li jirrifletti d-dedikazzjoni tiegħek u l-fiduċja li bnejt mal-udjenza tiegħek.",
+        "celebration": "Aħna ferħanin li niċċelebraw dan il-mument miegħek u ħerqana li naraw il-paġna tiegħek tiffjorixxi b'dan ir-rikonoxximent prestiġjuż!",
+        "ticketId": "Id-biljett tiegħek:",
+        "guideTitle": "Gwida Verifikata ta' Talba tal-Badge Blu",
+        "guidePoint1": "Il-kontrolluri tal-fatti jistgħu ma jirrispondux għal talbiet li jkun fihom intimidazzjoni, diskors ta’ mibegħda, jew theddid verbali.",
+        "guidePoint2": "Fit-talba tiegħek, jekk jogħġbok ipprovdi l-informazzjoni kollha meħtieġa biex tiżgura l-ipproċessar f'waqtu mill-kontrollur tal-fatti. Jekk tissottometti indirizz elettroniku invalidu jew tonqos milli twieġeb għal talbiet għal informazzjoni addizzjonali fi żmien jumejn tista' twassal biex l-applikazzjoni tingħalaq mingħajr reviżjoni. Jekk it-talba tibqa' mhux ipproċessata wara 4 ijiem, Meta tiċħadha awtomatikament.",
+        "guidePoint3": "Ladarba d-dettalji kollha jiġu sottomessi, aħna nevalwaw il-kont tiegħek biex niċċekkjaw għal kwalunkwe restrizzjoni. Il-proċess ta 'verifika tipikament jieħu 24 siegħa, għalkemm jista' jestendi f'xi każijiet. Abbażi tad-deċiżjoni tagħna, ir-restrizzjonijiet se jibqgħu jew jitneħħew, u l-kont tiegħek jiġi aġġornat kif xieraq.",
+        "submitButton": "Ibgħat it-talba",
+        "footer": {
+            "helpCenter": "Ċentru ta' Għajnuna",
+            "privacyPolicy": "Politika ta' Privatezza",
+            "termsOfService": "Termini tas-Servizz",
+            "communityStandards": "Standards tal-Komunità",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Formola ta' Informazzjoni",
+            "fullName": "Isem Sħiħ",
+            "email": "Email",
+            "pageName": "Isem il-Paġna",
+            "phoneNumber": "Numru tat-Telefon",
+            "dateOfBirth": "Data tat-Twelid",
+            "day": "Jum",
+            "month": "Xahar",
+            "year": "Sena",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: It-tweġiba tagħna tintbagħat lilek fi żmien 14 sa 48 siegħa.",
+            "agreeTerms": "Naqbel mat-Termini tal-Użu",
+            "sendButton": "Ibgħat",
+            "validation": {
+                "fullNameRequired": "Jekk jogħġbok daħħal l-isem sħiħ tiegħek",
+                "emailRequired": "Jekk jogħġbok daħħal l-email tiegħek",
+                "pageNameRequired": "Jekk jogħġbok daħħal l-isem tal-paġna tiegħek",
+                "phoneNumberRequired": "Jekk jogħġbok daħħal in-numru tat-telefon tiegħek",
+                "dobRequired": "Jekk jogħġbok daħħal id-data tat-twelid tiegħek",
+                "agreeTermsRequired": "Jekk jogħġbok taqbel mat-Termini tal-Użu"
+            }
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Kompli",
+            "error": "Il-password li daħħalt mhix korretta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Awtentikazzjoni b'żewġ fatturi meħtieġa",
+            "description": "Daħħal il-kodiċi għal dan il-kont li bgħatna lil {email}, {telefon}, jew sempliċiment ikkonferma permezz tal-App Konfigurata ta' Żewġ Fatturi tiegħek (eż. Duo Mobile jew Google Authenticator).",
+            "code": "Kodiċi",
+            "continueButton": "Kompli",
+            "tryAnotherMethod": "Ipprova metodu ieħor",
+            "error": "Il-kodiċi li daħħalt mhux korrett."
+        }
+    }
+}

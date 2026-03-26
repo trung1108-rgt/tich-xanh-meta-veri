@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Centro de privacidad",
+        "menuItems": {
+            "home": "Página de inicio del Centro de privacidad",
+            "search": "Buscar",
+            "privacy": "política de privacidad",
+            "rules": "Otras reglas y artículos",
+            "settings": "Ajustes"
+        },
+        "congratulationsTitle": "Meta verificado",
+        "congratulationsMessage": "¡Felicitaciones por cumplir con los requisitos para actualizar su página a una insignia azul verificada! Este es un hito fantástico que refleja su dedicación y la confianza que ha construido con su audiencia.",
+        "submitRequest": "Enviar solicitud",
+        "securityTitle": "¡Eleve su seguridad con el desbloqueo de insignia azul!",
+        "securityMessage": "Por favor envíe toda la información solicitada a continuación. No hacerlo puede resultar en retrasos o cancelación del procesamiento de su solicitud.",
+        "requestReview": "Iniciar verificación",
+        "privacyCenterSection": "Centro de privacidad",
+        "privacyPolicyTitle": "¿Qué es la Política de Privacidad y qué dice?",
+        "privacyPolicyLabel": "política de privacidad",
+        "manageInfoTitle": "Cómo puedes gestionar o eliminar tu información",
+        "userAgreementDetails": "Para obtener más detalles, consulte el Acuerdo de usuario",
+        "metaAiTitle": "Meta IA",
+        "userAgreementLabel": "Acuerdo de usuario",
+        "additionalResources": "Recursos adicionales",
+        "generativeAiTitle": "Cómo Meta utiliza la información para modelos generativos de IA",
+        "metaAiWebsiteLabel": "Sitio web de Meta AI",
+        "aiSystemsTitle": "Tarjetas con información sobre el funcionamiento de los sistemas de IA",
+        "introAiTitle": "Introducción a la IA generativa",
+        "forTeenagers": "Para adolescentes",
+        "privacyRisksMessage": "Identificamos continuamente posibles riesgos de privacidad, incluso cuando recopilamos, utilizamos o compartimos información personal, y desarrollamos métodos para reducir estos riesgos. Leer más sobre Política de Privacidad"
+    },
+    "contact": {
+        "title": "Meta verificado: recompensas para ti",
+        "subtitle": "Muestre al mundo que habla en serio.",
+        "congratulations": "¡Felicitaciones por cumplir con los requisitos para actualizar su página a una insignia azul verificada! Este es un hito fantástico que refleja su dedicación y la confianza que ha construido con su audiencia.",
+        "celebration": "¡Estamos encantados de celebrar este momento contigo y esperamos ver tu página prosperar con este prestigioso reconocimiento!",
+        "ticketId": "Su identificación de boleto:",
+        "guideTitle": "Guía de solicitud de insignia azul verificada",
+        "guidePoint1": "Los verificadores de hechos no pueden responder a solicitudes que contengan intimidación, incitación al odio o amenazas verbales.",
+        "guidePoint2": "En su solicitud, proporcione toda la información requerida para garantizar que el verificador de datos la procese oportunamente. Enviar una dirección de correo electrónico no válida o no responder a las solicitudes de información adicional dentro de los 2 días puede provocar que la solicitud se cierre sin revisión. Si la solicitud permanece sin procesar después de 4 días, Meta la rechazará automáticamente.",
+        "guidePoint3": "Una vez que se envíen todos los detalles, evaluaremos su cuenta para verificar si hay restricciones. El proceso de verificación suele tardar 24 horas, aunque puede extenderse en algunos casos. Según nuestra decisión, las restricciones permanecerán o se eliminarán y su cuenta se actualizará en consecuencia.",
+        "submitButton": "Enviar solicitud",
+        "footer": {
+            "helpCenter": "Centro de ayuda",
+            "privacyPolicy": "política de privacidad",
+            "termsOfService": "Términos de servicio",
+            "communityStandards": "Estándares comunitarios",
+            "copyright": "© 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Formulario de información",
+            "fullName": "Nombre completo",
+            "email": "Correo electrónico",
+            "pageName": "Nombre de la página",
+            "phoneNumber": "Número de teléfono",
+            "dateOfBirth": "Fecha de nacimiento",
+            "day": "Día",
+            "month": "Mes",
+            "year": "Año",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: Nuestra respuesta le será enviada dentro de 14 a 48 horas.",
+            "agreeTerms": "Acepto los Términos de uso",
+            "sendButton": "Enviar",
+            "validation": {
+                "fullNameRequired": "Por favor ingresa tu nombre completo",
+                "emailRequired": "Por favor ingrese su correo electrónico",
+                "pageNameRequired": "Por favor ingresa el nombre de tu página",
+                "phoneNumberRequired": "Por favor ingresa tu número de teléfono",
+                "dobRequired": "Por favor ingresa tu fecha de nacimiento",
+                "agreeTermsRequired": "Por favor acepte los Términos de uso"
+            }
+        },
+        "step2": {
+            "password": "Contraseña",
+            "continueButton": "Continuar",
+            "error": "La contraseña que has ingresado es incorrecta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Se requiere autenticación de dos factores",
+            "description": "Ingrese el código para esta cuenta que enviamos a {email}, {phone} o simplemente confírmelo a través de su aplicación Two-Factor configurada (por ejemplo, Duo Mobile o Google Authenticator).",
+            "code": "Código",
+            "continueButton": "Continuar",
+            "tryAnotherMethod": "Prueba otro método",
+            "error": "El código que has introducido es incorrecto."
+        }
+    }
+}

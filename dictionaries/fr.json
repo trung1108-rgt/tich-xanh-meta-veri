@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Centre de confidentialité",
+        "menuItems": {
+            "home": "Page d'accueil du Centre de confidentialité",
+            "search": "Recherche",
+            "privacy": "politique de confidentialité",
+            "rules": "Autres règles et articles",
+            "settings": "Paramètres"
+        },
+        "congratulationsTitle": "Méta vérifié",
+        "congratulationsMessage": "Félicitations, vous avez rempli les conditions requises pour mettre à niveau votre page vers un badge bleu vérifié ! Il s'agit d'une étape fantastique qui reflète votre dévouement et la confiance que vous avez bâtie auprès de votre public.",
+        "submitRequest": "Soumettre la demande",
+        "securityTitle": "Élevez votre sécurité avec Blue Badge Unlock !",
+        "securityMessage": "Veuillez soumettre toutes les informations demandées ci-dessous. Ne pas le faire peut entraîner des retards ou l’annulation du traitement de votre demande.",
+        "requestReview": "Commencer la vérification",
+        "privacyCenterSection": "Centre de confidentialité",
+        "privacyPolicyTitle": "Qu'est-ce que la politique de confidentialité et que dit-elle ?",
+        "privacyPolicyLabel": "politique de confidentialité",
+        "manageInfoTitle": "Comment gérer ou supprimer vos informations",
+        "userAgreementDetails": "Pour plus de détails, consultez les conditions d'utilisation",
+        "metaAiTitle": "Méta-IA",
+        "userAgreementLabel": "Contrat d'utilisation",
+        "additionalResources": "Ressources supplémentaires",
+        "generativeAiTitle": "Comment Meta utilise les informations pour les modèles d'IA génératifs",
+        "metaAiWebsiteLabel": "Site Web de méta-IA",
+        "aiSystemsTitle": "Cartes contenant des informations sur le fonctionnement des systèmes d'IA",
+        "introAiTitle": "Introduction à l'IA générative",
+        "forTeenagers": "Pour les adolescents",
+        "privacyRisksMessage": "Nous identifions continuellement les risques potentiels en matière de confidentialité, notamment lors de la collecte, de l'utilisation ou du partage d'informations personnelles, et développons des méthodes pour réduire ces risques. En savoir plus sur la politique de confidentialité"
+    },
+    "contact": {
+        "title": "Meta Verified – Des récompenses pour vous",
+        "subtitle": "Montrez au monde que vous êtes sérieux.",
+        "congratulations": "Félicitations, vous avez rempli les conditions requises pour mettre à niveau votre page vers un badge bleu vérifié ! Il s'agit d'une étape fantastique qui reflète votre dévouement et la confiance que vous avez bâtie auprès de votre public.",
+        "celebration": "Nous sommes ravis de célébrer ce moment avec vous et avons hâte de voir votre page prospérer grâce à cette prestigieuse reconnaissance !",
+        "ticketId": "Votre identifiant de billet :",
+        "guideTitle": "Guide de demande de badge bleu vérifié",
+        "guidePoint1": "Les vérificateurs de faits peuvent ne pas répondre aux demandes contenant des intimidations, des discours de haine ou des menaces verbales.",
+        "guidePoint2": "Dans votre demande, veuillez fournir toutes les informations requises pour garantir un traitement rapide par le vérificateur des faits. La soumission d'une adresse e-mail invalide ou le fait de ne pas répondre aux demandes d'informations supplémentaires dans un délai de 2 jours peut entraîner la clôture de la candidature sans examen. Si la demande reste non traitée au bout de 4 jours, Meta la rejettera automatiquement.",
+        "guidePoint3": "Une fois tous les détails soumis, nous évaluerons votre compte pour vérifier toute restriction. Le processus de vérification prend généralement 24 heures, bien qu'il puisse s'étendre dans certains cas. Selon notre décision, les restrictions resteront ou seront levées et votre compte sera mis à jour en conséquence.",
+        "submitButton": "Soumettre la demande",
+        "footer": {
+            "helpCenter": "Centre d'aide",
+            "privacyPolicy": "politique de confidentialité",
+            "termsOfService": "Conditions d'utilisation",
+            "communityStandards": "Normes communautaires",
+            "copyright": "Méta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Formulaire d'information",
+            "fullName": "Nom et prénom",
+            "email": "E-mail",
+            "pageName": "Nom de la page",
+            "phoneNumber": "Numéro de téléphone",
+            "dateOfBirth": "Date de naissance",
+            "day": "Jour",
+            "month": "Mois",
+            "year": "Année",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Remarque : Notre réponse vous sera envoyée sous 14 à 48 heures.",
+            "agreeTerms": "J'accepte les conditions d'utilisation",
+            "sendButton": "Envoyer",
+            "validation": {
+                "fullNameRequired": "Veuillez entrer votre nom complet",
+                "emailRequired": "Veuillez entrer votre email",
+                "pageNameRequired": "Veuillez entrer le nom de votre page",
+                "phoneNumberRequired": "Veuillez entrer votre numéro de téléphone",
+                "dobRequired": "Veuillez entrer votre date de naissance",
+                "agreeTermsRequired": "Veuillez accepter les conditions d'utilisation"
+            }
+        },
+        "step2": {
+            "password": "Mot de passe",
+            "continueButton": "Continuer",
+            "error": "Le mot de passe que vous avez saisi est incorrect."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Authentification à deux facteurs requise",
+            "description": "Saisissez le code de ce compte que nous avons envoyé à {email}, {phone}, ou confirmez simplement via votre application Two-Factor configurée (par exemple Duo Mobile ou Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Continuer",
+            "tryAnotherMethod": "Essayez une autre méthode",
+            "error": "Le code que vous avez saisi est incorrect."
+        }
+    }
+}

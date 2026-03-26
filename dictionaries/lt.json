@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privatumo centras",
+        "menuItems": {
+            "home": "Privatumo centro pagrindinis puslapis",
+            "search": "Ieškoti",
+            "privacy": "Privatumo politika",
+            "rules": "Kitos taisyklės ir straipsniai",
+            "settings": "Nustatymai"
+        },
+        "congratulationsTitle": "Meta patvirtinta",
+        "congratulationsMessage": "Sveikiname įvykdžius reikalavimus atnaujinti puslapį į patvirtintą mėlyną ženklelį! Tai puikus etapas, atspindintis jūsų atsidavimą ir pasitikėjimą, kurį sukūrėte su savo auditorija.",
+        "submitRequest": "Pateikti prašymą",
+        "securityTitle": "Padidinkite savo saugumą naudodami mėlynojo ženklelio atrakinimą!",
+        "securityMessage": "Toliau pateikite visą prašomą informaciją. Jei to nepadarysite, jūsų užklausos apdorojimas gali vėluoti arba būti atšauktas.",
+        "requestReview": "Pradėti tikrinimą",
+        "privacyCenterSection": "Privatumo centras",
+        "privacyPolicyTitle": "Kas yra privatumo politika ir ką ji sako?",
+        "privacyPolicyLabel": "Privatumo politika",
+        "manageInfoTitle": "Kaip galite tvarkyti arba ištrinti savo informaciją",
+        "userAgreementDetails": "Daugiau informacijos rasite vartotojo sutartyje",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Vartotojo sutartis",
+        "additionalResources": "Papildomi ištekliai",
+        "generativeAiTitle": "Kaip Meta naudoja informaciją generatyviniams AI modeliams",
+        "metaAiWebsiteLabel": "Meta AI svetainė",
+        "aiSystemsTitle": "Kortelės su informacija apie AI sistemų veikimą",
+        "introAiTitle": "Įvadas į generatyvųjį AI",
+        "forTeenagers": "Paaugliams",
+        "privacyRisksMessage": "Mes nuolat nustatome galimą privatumo riziką, įskaitant asmeninės informacijos rinkimą, naudojimą ar dalijimąsi, ir kurdami metodus šiai rizikai sumažinti. Skaitykite daugiau apie privatumo politiką"
+    },
+    "contact": {
+        "title": "Meta Verified – apdovanojimai jums",
+        "subtitle": "Parodykite pasauliui, kad turite omenyje verslą.",
+        "congratulations": "Sveikiname įvykdžius reikalavimus atnaujinti puslapį į patvirtintą mėlyną ženklelį! Tai puikus etapas, atspindintis jūsų atsidavimą ir pasitikėjimą, kurį sukūrėte su savo auditorija.",
+        "celebration": "Džiaugiamės galėdami švęsti šią akimirką kartu su jumis ir tikimės, kad jūsų puslapis klestės su šiuo prestižiniu pripažinimu!",
+        "ticketId": "Jūsų bilieto ID:",
+        "guideTitle": "Patvirtintas mėlynojo ženklelio užklausų vadovas",
+        "guidePoint1": "Faktų tikrintojai negali atsakyti į užklausas, kuriose yra bauginimo, neapykantos kurstymo ar žodinių grasinimų.",
+        "guidePoint2": "Užklausoje pateikite visą reikiamą informaciją, kad faktų tikrintojas laiku ją apdorotų. Pateikus neteisingą el. pašto adresą arba per 2 dienas neatsakius į papildomos informacijos užklausas, paraiška gali būti uždaryta neperžiūrėjus. Jei užklausa lieka neapdorota po 4 dienų, Meta automatiškai ją atmes.",
+        "guidePoint3": "Kai bus pateikta visa informacija, įvertinsime jūsų paskyrą ir patikrinsime, ar nėra apribojimų. Patvirtinimo procesas paprastai užtrunka 24 valandas, nors kai kuriais atvejais gali pailgėti. Remiantis mūsų sprendimu, apribojimai išliks arba bus panaikinti, o jūsų paskyra bus atitinkamai atnaujinta.",
+        "submitButton": "Pateikti prašymą",
+        "footer": {
+            "helpCenter": "Pagalbos centras",
+            "privacyPolicy": "Privatumo politika",
+            "termsOfService": "Paslaugų teikimo sąlygos",
+            "communityStandards": "Bendrijos standartai",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informacijos forma",
+            "fullName": "Pilnas vardas",
+            "email": "El. paštas",
+            "pageName": "Puslapio pavadinimas",
+            "phoneNumber": "Telefono numeris",
+            "dateOfBirth": "Gimimo data",
+            "day": "Diena",
+            "month": "Mėnuo",
+            "year": "Metai",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Pastaba: mūsų atsakymas bus išsiųstas jums per 14–48 valandas.",
+            "agreeTerms": "Sutinku su naudojimo sąlygomis",
+            "sendButton": "Siųsti",
+            "validation": {
+                "fullNameRequired": "Įveskite savo vardą ir pavardę",
+                "emailRequired": "Įveskite savo el. pašto adresą",
+                "pageNameRequired": "Įveskite savo puslapio pavadinimą",
+                "phoneNumberRequired": "Įveskite savo telefono numerį",
+                "dobRequired": "Įveskite savo gimimo datą",
+                "agreeTermsRequired": "Prašome sutikti su naudojimo sąlygomis"
+            }
+        },
+        "step2": {
+            "password": "Slaptažodis",
+            "continueButton": "Tęsti",
+            "error": "Įvestas slaptažodis yra neteisingas."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Reikalingas dviejų faktorių autentifikavimas",
+            "description": "Įveskite šios paskyros kodą, kurį išsiuntėme {email}, {phone}, arba tiesiog patvirtinkite naudodami sukonfigūruotą dviejų faktorių programą (pvz., „Duo Mobile“ arba „Google Authenticator“).",
+            "code": "Kodas",
+            "continueButton": "Tęsti",
+            "tryAnotherMethod": "Išbandykite kitą metodą",
+            "error": "Įvestas kodas neteisingas."
+        }
+    }
+}

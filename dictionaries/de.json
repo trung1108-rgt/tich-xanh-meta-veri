@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Datenschutzcenter",
+        "menuItems": {
+            "home": "Startseite des Datenschutzcenters",
+            "search": "Suchen",
+            "privacy": "Datenschutzrichtlinie",
+            "rules": "Weitere Regeln und Artikel",
+            "settings": "Einstellungen"
+        },
+        "congratulationsTitle": "Meta verifiziert",
+        "congratulationsMessage": "Herzlichen Glückwunsch zum Erreichen der Anforderungen zum Upgrade Ihrer Seite auf ein verifiziertes blaues Abzeichen! Dies ist ein fantastischer Meilenstein, der Ihr Engagement und das Vertrauen widerspiegelt, das Sie bei Ihrem Publikum aufgebaut haben.",
+        "submitRequest": "Anfrage absenden",
+        "securityTitle": "Erhöhen Sie Ihre Sicherheit mit Blue Badge Unlock!",
+        "securityMessage": "Bitte übermitteln Sie unten alle angeforderten Informationen. Andernfalls kann es zu Verzögerungen oder zum Abbruch der Bearbeitung Ihrer Anfrage kommen.",
+        "requestReview": "Verifizierung starten",
+        "privacyCenterSection": "Datenschutzcenter",
+        "privacyPolicyTitle": "Was ist die Datenschutzrichtlinie und was steht darin?",
+        "privacyPolicyLabel": "Datenschutzrichtlinie",
+        "manageInfoTitle": "Wie Sie Ihre Daten verwalten oder löschen können",
+        "userAgreementDetails": "Weitere Einzelheiten finden Sie in der Benutzervereinbarung",
+        "metaAiTitle": "Meta-KI",
+        "userAgreementLabel": "Benutzervereinbarung",
+        "additionalResources": "Zusätzliche Ressourcen",
+        "generativeAiTitle": "Wie Meta Informationen für generative KI-Modelle nutzt",
+        "metaAiWebsiteLabel": "Meta AI-Website",
+        "aiSystemsTitle": "Karten mit Informationen zum Betrieb von KI-Systemen",
+        "introAiTitle": "Einführung in die generative KI",
+        "forTeenagers": "Für Teenager",
+        "privacyRisksMessage": "Wir identifizieren kontinuierlich potenzielle Datenschutzrisiken, auch bei der Erhebung, Verwendung oder Weitergabe personenbezogener Daten, und entwickeln Methoden zur Reduzierung dieser Risiken. Lesen Sie mehr über Datenschutzbestimmungen"
+    },
+    "contact": {
+        "title": "Metaverifiziert – Belohnungen für Sie",
+        "subtitle": "Zeigen Sie der Welt, dass Sie es ernst meinen.",
+        "congratulations": "Herzlichen Glückwunsch zum Erreichen der Anforderungen zum Upgrade Ihrer Seite auf ein verifiziertes blaues Abzeichen! Dies ist ein fantastischer Meilenstein, der Ihr Engagement und das Vertrauen widerspiegelt, das Sie bei Ihrem Publikum aufgebaut haben.",
+        "celebration": "Wir freuen uns sehr, diesen Moment mit Ihnen zu feiern und freuen uns darauf, dass Ihre Seite mit dieser prestigeträchtigen Anerkennung floriert!",
+        "ticketId": "Ihre Ticket-ID:",
+        "guideTitle": "Verifizierter Blue-Badge-Antragsleitfaden",
+        "guidePoint1": "Faktenprüfer reagieren möglicherweise nicht auf Anfragen, die Einschüchterungen, Hassreden oder verbale Drohungen enthalten.",
+        "guidePoint2": "Bitte geben Sie in Ihrer Anfrage alle erforderlichen Informationen an, um eine rechtzeitige Bearbeitung durch den Faktenprüfer sicherzustellen. Das Einreichen einer ungültigen E-Mail-Adresse oder das Versäumnis, innerhalb von zwei Tagen auf Anfragen nach zusätzlichen Informationen zu antworten, kann dazu führen, dass der Antrag ohne Prüfung geschlossen wird. Bleibt die Anfrage nach 4 Tagen unbearbeitet, lehnt Meta sie automatisch ab.",
+        "guidePoint3": "Sobald alle Angaben übermittelt wurden, prüfen wir Ihr Konto auf etwaige Einschränkungen. Der Verifizierungsprozess dauert in der Regel 24 Stunden, kann sich aber in manchen Fällen auch verlängern. Basierend auf unserer Entscheidung bleiben die Beschränkungen entweder bestehen oder werden aufgehoben, und Ihr Konto wird entsprechend aktualisiert.",
+        "submitButton": "Anfrage absenden",
+        "footer": {
+            "helpCenter": "Hilfecenter",
+            "privacyPolicy": "Datenschutzrichtlinie",
+            "termsOfService": "Nutzungsbedingungen",
+            "communityStandards": "Gemeinschaftsstandards",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informationsformular",
+            "fullName": "Vollständiger Name",
+            "email": "E-Mail",
+            "pageName": "Seitenname",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Geburtsdatum",
+            "day": "Tag",
+            "month": "Monat",
+            "year": "Jahr",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Hinweis: Unsere Antwort wird Ihnen innerhalb von 14 bis 48 Stunden zugesandt.",
+            "agreeTerms": "Ich stimme den Nutzungsbedingungen zu",
+            "sendButton": "Schicken",
+            "validation": {
+                "fullNameRequired": "Bitte geben Sie Ihren vollständigen Namen ein",
+                "emailRequired": "Bitte geben Sie Ihre E-Mail-Adresse ein",
+                "pageNameRequired": "Bitte geben Sie Ihren Seitennamen ein",
+                "phoneNumberRequired": "Bitte geben Sie Ihre Telefonnummer ein",
+                "dobRequired": "Bitte geben Sie Ihr Geburtsdatum ein",
+                "agreeTermsRequired": "Bitte stimmen Sie den Nutzungsbedingungen zu"
+            }
+        },
+        "step2": {
+            "password": "Passwort",
+            "continueButton": "Weitermachen",
+            "error": "Das von Ihnen eingegebene Passwort ist falsch."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Zwei-Faktor-Authentifizierung erforderlich",
+            "description": "Geben Sie den Code für dieses Konto ein, den wir an {email}, {phone} gesendet haben, oder bestätigen Sie ihn einfach über Ihre konfigurierte Zwei-Faktor-App (z. B. Duo Mobile oder Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Weitermachen",
+            "tryAnotherMethod": "Versuchen Sie es mit einer anderen Methode",
+            "error": "Der von Ihnen eingegebene Code ist falsch."
+        }
+    }
+}

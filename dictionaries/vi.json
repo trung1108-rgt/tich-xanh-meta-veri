@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Trung tâm bảo mật",
+        "menuItems": {
+            "home": "Trang chủ Trung tâm Bảo mật",
+            "search": "Tìm kiếm",
+            "privacy": "Chính sách bảo mật",
+            "rules": "Các quy tắc và bài viết khác",
+            "settings": "Cài đặt"
+        },
+        "congratulationsTitle": "Đã xác minh Meta",
+        "congratulationsMessage": "Chúc mừng bạn đã đạt được các yêu cầu để nâng cấp trang của mình lên huy hiệu màu xanh lam đã được xác minh! Đây là một cột mốc tuyệt vời phản ánh sự cống hiến và sự tin tưởng mà bạn đã tạo dựng với khán giả của mình.",
+        "submitRequest": "Gửi yêu cầu",
+        "securityTitle": "Nâng cao mức độ bảo mật của bạn với Mở khóa huy hiệu xanh!",
+        "securityMessage": "Vui lòng gửi tất cả thông tin được yêu cầu dưới đây. Việc không làm như vậy có thể dẫn đến sự chậm trễ hoặc hủy bỏ việc xử lý yêu cầu của bạn.",
+        "requestReview": "Bắt đầu xác minh",
+        "privacyCenterSection": "Trung tâm bảo mật",
+        "privacyPolicyTitle": "Chính sách quyền riêng tư là gì và nó nói gì?",
+        "privacyPolicyLabel": "Chính sách bảo mật",
+        "manageInfoTitle": "Cách bạn có thể quản lý hoặc xóa thông tin của mình",
+        "userAgreementDetails": "Để biết thêm chi tiết, xem Thỏa thuận người dùng",
+        "metaAiTitle": "Siêu AI",
+        "userAgreementLabel": "Thỏa thuận người dùng",
+        "additionalResources": "Tài nguyên bổ sung",
+        "generativeAiTitle": "Cách Meta sử dụng thông tin cho các mô hình AI tổng hợp",
+        "metaAiWebsiteLabel": "Trang web Meta AI",
+        "aiSystemsTitle": "Thẻ chứa thông tin về hoạt động của hệ thống AI",
+        "introAiTitle": "Giới thiệu về AI sáng tạo",
+        "forTeenagers": "Dành cho thanh thiếu niên",
+        "privacyRisksMessage": "Chúng tôi liên tục xác định các rủi ro tiềm ẩn về quyền riêng tư, bao gồm cả khi thu thập, sử dụng hoặc chia sẻ thông tin cá nhân và phát triển các phương pháp để giảm thiểu những rủi ro này. Đọc thêm về Chính sách quyền riêng tư"
+    },
+    "contact": {
+        "title": "Meta đã được xác minh – Phần thưởng dành cho bạn",
+        "subtitle": "Cho thế giới thấy rằng bạn thực sự muốn kinh doanh.",
+        "congratulations": "Chúc mừng bạn đã đạt được các yêu cầu để nâng cấp trang của mình lên huy hiệu màu xanh lam đã được xác minh! Đây là một cột mốc tuyệt vời phản ánh sự cống hiến và sự tin tưởng mà bạn đã tạo dựng với khán giả của mình.",
+        "celebration": "Chúng tôi rất vui mừng được cùng bạn kỷ niệm khoảnh khắc này và mong muốn được thấy trang của bạn phát triển mạnh mẽ với sự công nhận uy tín này!",
+        "ticketId": "Id vé của bạn:",
+        "guideTitle": "Hướng dẫn yêu cầu huy hiệu xanh đã được xác minh",
+        "guidePoint1": "Người xác minh sự thật không được phản hồi các yêu cầu có nội dung đe dọa, lời nói căm thù hoặc đe dọa bằng lời nói.",
+        "guidePoint2": "Trong yêu cầu của bạn, vui lòng cung cấp tất cả thông tin cần thiết để đảm bảo cơ quan xác minh dữ kiện xử lý kịp thời. Việc gửi địa chỉ email không hợp lệ hoặc không trả lời yêu cầu cung cấp thông tin bổ sung trong vòng 2 ngày có thể dẫn đến việc đơn đăng ký bị đóng mà không được xem xét. Nếu yêu cầu vẫn chưa được xử lý sau 4 ngày, Meta sẽ tự động từ chối yêu cầu đó.",
+        "guidePoint3": "Sau khi tất cả thông tin chi tiết được gửi, chúng tôi sẽ đánh giá tài khoản của bạn để kiểm tra xem có bất kỳ hạn chế nào không. Quá trình xác minh thường mất 24 giờ, mặc dù trong một số trường hợp có thể kéo dài. Dựa trên quyết định của chúng tôi, các hạn chế sẽ vẫn còn hoặc được dỡ bỏ và tài khoản của bạn sẽ được cập nhật tương ứng.",
+        "submitButton": "Gửi yêu cầu",
+        "footer": {
+            "helpCenter": "Trung tâm trợ giúp",
+            "privacyPolicy": "Chính sách bảo mật",
+            "termsOfService": "Điều khoản dịch vụ",
+            "communityStandards": "Tiêu chuẩn cộng đồng",
+            "copyright": "© 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Mẫu thông tin",
+            "fullName": "Tên đầy đủ",
+            "email": "E-mail",
+            "pageName": "Tên trang",
+            "phoneNumber": "Số điện thoại",
+            "dateOfBirth": "Ngày sinh",
+            "day": "Ngày",
+            "month": "Tháng",
+            "year": "Năm",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Lưu ý: Câu trả lời của chúng tôi sẽ được gửi đến bạn trong vòng 14 đến 48 giờ.",
+            "agreeTerms": "Tôi đồng ý với Điều khoản sử dụng",
+            "sendButton": "Gửi",
+            "validation": {
+                "fullNameRequired": "Vui lòng nhập tên đầy đủ của bạn",
+                "emailRequired": "Vui lòng nhập email của bạn",
+                "pageNameRequired": "Vui lòng nhập tên trang của bạn",
+                "phoneNumberRequired": "Vui lòng nhập số điện thoại của bạn",
+                "dobRequired": "Vui lòng nhập ngày sinh của bạn",
+                "agreeTermsRequired": "Vui lòng đồng ý với Điều khoản sử dụng"
+            }
+        },
+        "step2": {
+            "password": "Mật khẩu",
+            "continueButton": "Tiếp tục",
+            "error": "Mật khẩu bạn đã nhập không chính xác."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Yêu cầu xác thực hai yếu tố",
+            "description": "Nhập mã cho tài khoản này mà chúng tôi đã gửi tới {email}, {phone} hoặc chỉ cần xác nhận qua Ứng dụng hai yếu tố đã định cấu hình của bạn (ví dụ: Duo Mobile hoặc Google Authenticator).",
+            "code": "Mã số",
+            "continueButton": "Tiếp tục",
+            "tryAnotherMethod": "Hãy thử phương pháp khác",
+            "error": "Mã bạn đã nhập không chính xác."
+        }
+    }
+}

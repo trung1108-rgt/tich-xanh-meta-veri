@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privaatsuskeskus",
+        "menuItems": {
+            "home": "Privaatsuskeskuse avaleht",
+            "search": "Otsi",
+            "privacy": "Privaatsuspoliitika",
+            "rules": "Muud reeglid ja artiklid",
+            "settings": "Seaded"
+        },
+        "congratulationsTitle": "Meta kinnitatud",
+        "congratulationsMessage": "Õnnitleme teie lehe nõuete täitmise puhul kinnitatud siniseks märgiks! See on fantastiline verstapost, mis peegeldab teie pühendumust ja usaldust, mille olete oma publikuga loonud.",
+        "submitRequest": "Esitage taotlus",
+        "securityTitle": "Suurendage oma turvalisust sinise märgi avamisega!",
+        "securityMessage": "Esitage allpool kogu nõutav teave. Selle eiramine võib kaasa tuua viivitusi või teie taotluse töötlemise tühistamise.",
+        "requestReview": "Alustage kinnitamist",
+        "privacyCenterSection": "Privaatsuskeskus",
+        "privacyPolicyTitle": "Mis on privaatsuspoliitika ja mida see ütleb?",
+        "privacyPolicyLabel": "Privaatsuspoliitika",
+        "manageInfoTitle": "Kuidas saate oma teavet hallata või kustutada",
+        "userAgreementDetails": "Lisateavet leiate kasutajalepingust",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Kasutusleping",
+        "additionalResources": "Täiendavad ressursid",
+        "generativeAiTitle": "Kuidas Meta teavet generatiivsete AI mudelite jaoks kasutab",
+        "metaAiWebsiteLabel": "Meta AI veebisait",
+        "aiSystemsTitle": "Kaardid teabega tehisintellektisüsteemide toimimise kohta",
+        "introAiTitle": "Sissejuhatus generatiivsesse AI-sse",
+        "forTeenagers": "Teismelistele",
+        "privacyRisksMessage": "Tuvastame pidevalt võimalikke privaatsusriske, sealhulgas isikuandmete kogumisel, kasutamisel või jagamisel, ning töötame välja meetodeid nende riskide vähendamiseks. Lugege lisateavet privaatsuspoliitika kohta"
+    },
+    "contact": {
+        "title": "Meta Verified – preemiad teile",
+        "subtitle": "Näita maailmale, et mõtled äri.",
+        "congratulations": "Õnnitleme teie lehe nõuete täitmise puhul kinnitatud siniseks märgiks! See on fantastiline verstapost, mis peegeldab teie pühendumust ja usaldust, mille olete oma publikuga loonud.",
+        "celebration": "Meil on hea meel seda hetke teiega tähistada ja ootame, et teie leht selle maineka tunnustusega õitseks!",
+        "ticketId": "Teie pileti ID:",
+        "guideTitle": "Kinnitatud sinise märgi taotlemise juhend",
+        "guidePoint1": "Faktikontrollijad ei tohi vastata päringutele, mis sisaldavad hirmutamist, vihakõnet või suulisi ähvardusi.",
+        "guidePoint2": "Palun esitage oma taotluses kogu nõutav teave, et tagada faktide kontrollija õigeaegne töötlemine. Kehtetu e-posti aadressi esitamine või lisateabe päringutele kahe päeva jooksul vastamata jätmine võib viia taotluse läbivaatamata sulgemiseni. Kui taotlus jääb 4 päeva pärast töötlemata, lükkab Meta selle automaatselt tagasi.",
+        "guidePoint3": "Kui kõik üksikasjad on esitatud, hindame teie kontot piirangute kontrollimiseks. Kinnitusprotsess võtab tavaliselt 24 tundi, kuigi mõnel juhul võib see pikeneda. Meie otsuse alusel jäävad piirangud kehtima või need tühistatakse ja teie kontot värskendatakse vastavalt.",
+        "submitButton": "Esitage taotlus",
+        "footer": {
+            "helpCenter": "Abikeskus",
+            "privacyPolicy": "Privaatsuspoliitika",
+            "termsOfService": "Kasutustingimused",
+            "communityStandards": "ühenduse standardid",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Teabevorm",
+            "fullName": "Täisnimi",
+            "email": "Meil",
+            "pageName": "Lehekülje nimi",
+            "phoneNumber": "Telefoninumber",
+            "dateOfBirth": "Sünnikuupäev",
+            "day": "päev",
+            "month": "Kuu",
+            "year": "aasta",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Märkus. Meie vastus saadetakse teile 14–48 tunni jooksul.",
+            "agreeTerms": "Nõustun kasutustingimustega",
+            "sendButton": "Saada",
+            "validation": {
+                "fullNameRequired": "Palun sisestage oma täisnimi",
+                "emailRequired": "Palun sisesta oma email",
+                "pageNameRequired": "Sisestage oma lehe nimi",
+                "phoneNumberRequired": "Palun sisesta oma telefoninumber",
+                "dobRequired": "Palun sisestage oma sünnikuupäev",
+                "agreeTermsRequired": "Nõustuge kasutustingimustega"
+            }
+        },
+        "step2": {
+            "password": "Parool",
+            "continueButton": "Jätka",
+            "error": "Sisestatud parool on vale."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Vajalik on kahefaktoriline autentimine",
+            "description": "Sisestage selle konto kood, mille saatsime aadressile {email}, {phone}, või kinnitage lihtsalt oma konfigureeritud kahefaktorilise rakenduse (nt Duo Mobile või Google Authenticator) kaudu.",
+            "code": "Kood",
+            "continueButton": "Jätka",
+            "tryAnotherMethod": "Proovige teist meetodit",
+            "error": "Sisestatud kood on vale."
+        }
+    }
+}
