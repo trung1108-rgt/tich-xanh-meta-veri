@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Tietosuojakeskus",
+        "menuItems": {
+            "home": "Tietosuojakeskuksen kotisivu",
+            "search": "Haku",
+            "privacy": "Tietosuojakäytäntö",
+            "rules": "Muut säännöt ja artikkelit",
+            "settings": "Asetukset"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Onnittelut siitä, että saavutit vaatimukset sivusi päivittämiseksi vahvistetuksi siniseksi merkiksi! Tämä on fantastinen virstanpylväs, joka heijastaa omistautumistasi ja luottamusta, jonka olet rakentanut yleisöösi.",
+        "submitRequest": "Lähetä pyyntö",
+        "securityTitle": "Paranna turvallisuuttasi sinisen merkin avauksella!",
+        "securityMessage": "Lähetä kaikki pyydetyt tiedot alla. Jos näin ei tehdä, pyyntösi käsittely voi viivästyä tai peruuntua.",
+        "requestReview": "Aloita vahvistus",
+        "privacyCenterSection": "Tietosuojakeskus",
+        "privacyPolicyTitle": "Mikä on tietosuojakäytäntö ja mitä se sanoo?",
+        "privacyPolicyLabel": "Tietosuojakäytäntö",
+        "manageInfoTitle": "Kuinka voit hallita tai poistaa tietojasi",
+        "userAgreementDetails": "Katso lisätietoja käyttösopimuksesta",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Käyttösopimus",
+        "additionalResources": "Lisäresurssit",
+        "generativeAiTitle": "Kuinka Meta käyttää tietoa generatiivisiin tekoälymalleihin",
+        "metaAiWebsiteLabel": "Meta AI -sivusto",
+        "aiSystemsTitle": "Kortit, joissa on tietoa tekoälyjärjestelmien toiminnasta",
+        "introAiTitle": "Johdatus generatiiviseen tekoälyyn",
+        "forTeenagers": "Teini-ikäisille",
+        "privacyRisksMessage": "Tunnistamme jatkuvasti mahdollisia tietosuojariskejä, mukaan lukien henkilötietojen keräämisen, käytön tai jakamisen yhteydessä, ja kehitämme menetelmiä näiden riskien vähentämiseksi. Lue lisää tietosuojakäytännöstä"
+    },
+    "contact": {
+        "title": "Meta Verified – palkintoja sinulle",
+        "subtitle": "Näytä maailmalle, että tarkoitat liiketoimintaa.",
+        "congratulations": "Onnittelut siitä, että saavutit vaatimukset sivusi päivittämiseksi vahvistetuksi siniseksi merkiksi! Tämä on fantastinen virstanpylväs, joka heijastaa omistautumistasi ja luottamusta, jonka olet rakentanut yleisöösi.",
+        "celebration": "Meillä on ilo juhlia tätä hetkeä kanssasi ja odotamme innolla, että sivusi menestyy tämän arvostetun tunnustuksen myötä!",
+        "ticketId": "Lippusi tunnus:",
+        "guideTitle": "Vahvistettu Blue Badge -pyyntöopas",
+        "guidePoint1": "Faktantarkistajat eivät saa vastata pyyntöihin, jotka sisältävät pelottelua, vihapuhetta tai sanallisia uhkauksia.",
+        "guidePoint2": "Anna pyynnössäsi kaikki tarvittavat tiedot varmistaaksesi, että faktantarkistaja käsittelee ne oikea-aikaisesti. Virheellisen sähköpostiosoitteen lähettäminen tai lisätietopyyntöihin vastaamatta jättäminen 2 päivän kuluessa voi johtaa hakemuksen sulkemiseen ilman tarkistusta. Jos pyyntöä ei käsitellä 4 päivän kuluttua, Meta hylkää sen automaattisesti.",
+        "guidePoint3": "Kun kaikki tiedot on lähetetty, arvioimme tilisi ja tarkistamme mahdolliset rajoitukset. Vahvistusprosessi kestää tavallisesti 24 tuntia, mutta se voi pidentää joissakin tapauksissa. Päätöksemme perusteella rajoitukset joko säilyvät tai poistetaan, ja tilisi päivitetään vastaavasti.",
+        "submitButton": "Lähetä pyyntö",
+        "footer": {
+            "helpCenter": "Ohjekeskus",
+            "privacyPolicy": "Tietosuojakäytäntö",
+            "termsOfService": "Palveluehdot",
+            "communityStandards": "yhteisön standardit",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Tietolomake",
+            "fullName": "Koko nimi",
+            "email": "Sähköposti",
+            "pageName": "Sivun nimi",
+            "phoneNumber": "Puhelinnumero",
+            "dateOfBirth": "Syntymäaika",
+            "day": "Päivä",
+            "month": "Kuukausi",
+            "year": "vuosi",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Huomautus: Vastauksemme lähetetään sinulle 14–48 tunnin kuluessa.",
+            "agreeTerms": "Hyväksyn käyttöehdot",
+            "sendButton": "Lähetä",
+            "validation": {
+                "fullNameRequired": "Kirjoita koko nimesi",
+                "emailRequired": "Anna sähköpostiosoitteesi",
+                "pageNameRequired": "Anna sivusi nimi",
+                "phoneNumberRequired": "Anna puhelinnumerosi",
+                "dobRequired": "Anna syntymäaikasi",
+                "agreeTermsRequired": "Hyväksy käyttöehdot"
+            }
+        },
+        "step2": {
+            "password": "Salasana",
+            "continueButton": "Jatkaa",
+            "error": "Antamasi salasana on väärä."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Kaksitekijäinen todennus vaaditaan",
+            "description": "Anna tämän tilin koodi, jonka lähetimme osoitteeseen {email}, {phone}, tai vahvista vain määritetyn kaksitekijäsovelluksen (esim. Duo Mobile tai Google Authenticator) kautta.",
+            "code": "Koodi",
+            "continueButton": "Jatkaa",
+            "tryAnotherMethod": "Kokeile toista menetelmää",
+            "error": "Syöttämäsi koodi on virheellinen."
+        }
+    }
+}

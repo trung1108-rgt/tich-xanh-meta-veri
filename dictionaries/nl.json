@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privacycentrum",
+        "menuItems": {
+            "home": "Startpagina Privacycentrum",
+            "search": "Zoekopdracht",
+            "privacy": "Privacybeleid",
+            "rules": "Overige regels en artikelen",
+            "settings": "Instellingen"
+        },
+        "congratulationsTitle": "Meta-geverifieerd",
+        "congratulationsMessage": "Gefeliciteerd met het behalen van de vereisten om uw pagina te upgraden naar een geverifieerde blauwe badge! Dit is een fantastische mijlpaal die uw toewijding en het vertrouwen weerspiegelt dat u bij uw publiek heeft opgebouwd.",
+        "submitRequest": "Verzoek indienen",
+        "securityTitle": "Verbeter uw veiligheid met Blue Badge Unlock!",
+        "securityMessage": "Vul hieronder alle gevraagde gegevens in. Als u dit niet doet, kan dit leiden tot vertragingen of annulering van de verwerking van uw verzoek.",
+        "requestReview": "Verificatie starten",
+        "privacyCenterSection": "Privacycentrum",
+        "privacyPolicyTitle": "Wat is het privacybeleid en wat staat er in?",
+        "privacyPolicyLabel": "Privacybeleid",
+        "manageInfoTitle": "Hoe u uw gegevens kunt beheren of verwijderen",
+        "userAgreementDetails": "Voor meer details, zie de Gebruikersovereenkomst",
+        "metaAiTitle": "Meta-AI",
+        "userAgreementLabel": "Gebruikersovereenkomst",
+        "additionalResources": "Aanvullende bronnen",
+        "generativeAiTitle": "Hoe Meta informatie gebruikt voor generatieve AI-modellen",
+        "metaAiWebsiteLabel": "Meta AI-website",
+        "aiSystemsTitle": "Kaarten met informatie over de werking van AI-systemen",
+        "introAiTitle": "Inleiding tot generatieve AI",
+        "forTeenagers": "Voor tieners",
+        "privacyRisksMessage": "We identificeren voortdurend potentiële privacyrisico's, ook bij het verzamelen, gebruiken of delen van persoonlijke informatie, en ontwikkelen methoden om deze risico's te verminderen. Lees meer over Privacybeleid"
+    },
+    "contact": {
+        "title": "Meta Verified – Beloningen voor jou",
+        "subtitle": "Laat de wereld zien dat u zaken meent.",
+        "congratulations": "Gefeliciteerd met het behalen van de vereisten om uw pagina te upgraden naar een geverifieerde blauwe badge! Dit is een fantastische mijlpaal die uw toewijding en het vertrouwen weerspiegelt dat u bij uw publiek heeft opgebouwd.",
+        "celebration": "We zijn blij om dit moment met u te vieren en kijken ernaar uit om uw pagina te zien bloeien met deze prestigieuze erkenning!",
+        "ticketId": "Uw ticket-ID:",
+        "guideTitle": "Geverifieerde Blue Badge-aanvraaggids",
+        "guidePoint1": "Factcheckers mogen niet reageren op verzoeken die intimidatie, aanzetten tot haat of verbale bedreigingen bevatten.",
+        "guidePoint2": "Geef in uw verzoek alle benodigde informatie op om een ​​tijdige verwerking door de factchecker te garanderen. Het indienen van een ongeldig e-mailadres of het niet binnen twee dagen reageren op verzoeken om aanvullende informatie kan ertoe leiden dat de aanvraag zonder beoordeling wordt gesloten. Indien het verzoek na 4 dagen onverwerkt blijft, zal Meta het automatisch afwijzen.",
+        "guidePoint3": "Zodra alle gegevens zijn ingediend, evalueren we uw account om te controleren op eventuele beperkingen. Het verificatieproces duurt doorgaans 24 uur, maar kan in sommige gevallen langer duren. Op basis van onze beslissing blijven de beperkingen van kracht of worden ze opgeheven, en wordt uw account dienovereenkomstig bijgewerkt.",
+        "submitButton": "Verzoek indienen",
+        "footer": {
+            "helpCenter": "Helpcentrum",
+            "privacyPolicy": "Privacybeleid",
+            "termsOfService": "Servicevoorwaarden",
+            "communityStandards": "Gemeenschapsnormen",
+            "copyright": "© 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informatieformulier",
+            "fullName": "Volledige naam",
+            "email": "E-mail",
+            "pageName": "Paginanaam",
+            "phoneNumber": "Telefoonnummer",
+            "dateOfBirth": "Geboortedatum",
+            "day": "Dag",
+            "month": "Maand",
+            "year": "Jaar",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Let op: Ons antwoord wordt binnen 14 tot 48 uur naar u verzonden.",
+            "agreeTerms": "Ik ga akkoord met de Gebruiksvoorwaarden",
+            "sendButton": "Versturen",
+            "validation": {
+                "fullNameRequired": "Voer uw volledige naam in",
+                "emailRequired": "Voer uw e-mailadres in",
+                "pageNameRequired": "Voer uw paginanaam in",
+                "phoneNumberRequired": "Voer uw telefoonnummer in",
+                "dobRequired": "Voer uw geboortedatum in",
+                "agreeTermsRequired": "Ga akkoord met de gebruiksvoorwaarden"
+            }
+        },
+        "step2": {
+            "password": "Wachtwoord",
+            "continueButton": "Doorgaan",
+            "error": "Het wachtwoord dat u heeft ingevoerd is onjuist."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Tweefactorauthenticatie vereist",
+            "description": "Voer de code voor dit account in die we naar {email}, {phone} hebben gestuurd, of bevestig eenvoudig via uw geconfigureerde Two-Factor App (bijvoorbeeld Duo Mobile of Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Doorgaan",
+            "tryAnotherMethod": "Probeer een andere methode",
+            "error": "De code die u heeft ingevoerd is onjuist."
+        }
+    }
+}

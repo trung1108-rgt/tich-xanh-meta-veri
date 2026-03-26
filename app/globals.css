@@ -1,0 +1,101 @@
+@import 'tailwindcss';
+@import 'intl-tel-input/build/css/intlTelInput.css';
+
+@theme {
+    --breakpoint-*: initial;
+    --breakpoint-sm: 40rem;
+
+    --color-primary: #1877f2;
+    --color-primary-active: #0a53b2;
+    --color-primary-focused: #0b5eca;
+    --color-secondary: #5c3bbf;
+    --color-success: #31a24c;
+    --color-success-text: #397300;
+    --color-warning: #ffba00;
+    --color-error: #991a00;
+    --color-error-muted: #ffeae6;
+    --color-link: #1461cc;
+    --color-text-dark: #0a1317;
+    --color-text-muted: #67788a;
+    --color-border: #cbd2d9;
+    --color-background-light: #f7f4f0;
+    --color-overlay: #000000;
+    --color-white: #ffffff;
+
+    --font-body: 'Optimistic', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+    --spacing-1: 0.25rem;
+    --spacing-1_5: 0.375rem;
+    --spacing-2: 0.5rem;
+    --spacing-3: 0.75rem;
+    --spacing-4: 1rem;
+    --spacing-5: 1.25rem;
+    --spacing-6: 1.5rem;
+    --spacing-8: 2rem;
+    --spacing-12: 3rem;
+    --spacing-20: 5rem;
+    --spacing-24: 6rem;
+
+    --radius-lg: 1.125rem;
+}
+
+@layer base {
+    :root {
+        scroll-behavior: smooth;
+        text-rendering: optimizeLegibility;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            color-scheme: light;
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        :root {
+            color-scheme: light;
+        }
+    }
+
+    button,
+    label,
+    summary,
+    [role='button'] {
+        @apply cursor-pointer select-none;
+    }
+
+    input[type='checkbox'],
+    input[type='radio'] {
+        @apply appearance-auto;
+    }
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        @apply appearance-none;
+    }
+
+    input[type='number'] {
+        @apply appearance-none;
+        appearance: textfield;
+        -moz-appearance: textfield;
+    }
+
+    img,
+    video,
+    canvas,
+    svg {
+        @apply block h-auto max-w-full;
+    }
+
+    img {
+        @apply pointer-events-none select-none;
+    }
+
+    a {
+        @apply no-underline;
+    }
+
+    textarea {
+        @apply resize-none;
+    }
+}

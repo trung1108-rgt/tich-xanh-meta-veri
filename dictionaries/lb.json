@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privatsphär Center",
+        "menuItems": {
+            "home": "Privatsphär Center Home Page",
+            "search": "Sichen",
+            "privacy": "Privatsphär Politik",
+            "rules": "Aner Regelen an Artikelen",
+            "settings": "Astellungen"
+        },
+        "congratulationsTitle": "Meta Verifizéiert",
+        "congratulationsMessage": "Gratulatioun fir d'Ufuerderunge z'erreechen fir Är Säit op e verifizéiert bloe Badge ze upgrade! Dëst ass e fantastesche Meilesteen deen Är Engagement an d'Vertrauen reflektéiert, déi Dir mat Ärem Publikum opgebaut hutt.",
+        "submitRequest": "Ufro ofginn",
+        "securityTitle": "Erhéije Är Sécherheet mat Blue Badge Unlock!",
+        "securityMessage": "Gitt w.e.g. all ugefrote Informatioun hei ënnen un. Versoen dat ze maachen kann zu Verspéidungen oder Annulatioun vun Ärer Demandeveraarbechtung féieren.",
+        "requestReview": "Start Verifikatioun",
+        "privacyCenterSection": "Privatsphär Center",
+        "privacyPolicyTitle": "Wat ass d'Privatsphär Politik a wat seet se?",
+        "privacyPolicyLabel": "Privatsphär Politik",
+        "manageInfoTitle": "Wéi Dir Är Informatioun verwalten oder läschen",
+        "userAgreementDetails": "Fir méi Detailer, kuckt de Benotzerkonventioun",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Benotzer Accord",
+        "additionalResources": "Zousätzlech Ressourcen",
+        "generativeAiTitle": "Wéi Meta benotzt Informatioun fir generativ AI Modeller",
+        "metaAiWebsiteLabel": "Meta AI Websäit",
+        "aiSystemsTitle": "Kaarte mat Informatiounen iwwert d'Operatioun vun AI Systemer",
+        "introAiTitle": "Aféierung an Generativ AI",
+        "forTeenagers": "Fir Jugendlecher",
+        "privacyRisksMessage": "Mir identifizéieren kontinuéierlech potenziell Privatsphärrisiken, och wann Dir perséinlech Informatioun sammelt, benotzt oder deelt, a Methoden entwéckelen fir dës Risiken ze reduzéieren. Liest méi iwwer Privatsphär Politik"
+    },
+    "contact": {
+        "title": "Meta Verifizéiert - Belounungen fir Iech",
+        "subtitle": "Weist der Welt datt Dir Geschäft mengt.",
+        "congratulations": "Gratulatioun fir d'Ufuerderunge z'erreechen fir Är Säit op e verifizéiert bloe Badge ze upgrade! Dëst ass e fantastesche Meilesteen deen Är Engagement an d'Vertrauen reflektéiert, déi Dir mat Ärem Publikum opgebaut hutt.",
+        "celebration": "Mir si begeeschtert dëse Moment mat Iech ze feieren a freeën eis op Är Säit mat dëser prestigiéiser Unerkennung ze gesinn!",
+        "ticketId": "Ären Ticket ID:",
+        "guideTitle": "Verifizéiert Blue Badge Ufro Guide",
+        "guidePoint1": "Fakt Checker kënnen net op Ufroe reagéieren, déi Intimidatioun, Haass Ried oder verbal Bedrohungen enthalen.",
+        "guidePoint2": "An Ärer Demande gitt w.e.g. all erfuerderlech Informatioun fir eng fristgerecht Veraarbechtung vum Faktchecker ze garantéieren. Eng ongëlteg E-Mailadress ofzeginn oder net op Ufroe fir zousätzlech Informatioun bannent 2 Deeg ze äntweren, kann dozou féieren datt d'Applikatioun ouni Iwwerpréiwung zougemaach gëtt. Wann d'Ufro nach 4 Deeg net veraarbecht bleift, refuséiert Meta se automatesch.",
+        "guidePoint3": "Wann all Detailer ofgeliwwert sinn, wäerte mir Äre Kont evaluéieren fir no Restriktiounen ze kontrolléieren. De Verifizéierungsprozess dauert normalerweis 24 Stonnen, awer et kann a verschiddene Fäll verlängeren. Baséierend op eiser Entscheedung, Restriktiounen bleiwen entweder oder opgehuewe ginn, an Äre Kont gëtt deementspriechend aktualiséiert.",
+        "submitButton": "Ufro ofginn",
+        "footer": {
+            "helpCenter": "Hëllef Zentrum",
+            "privacyPolicy": "Privatsphär Politik",
+            "termsOfService": "Konditioune vum Service",
+            "communityStandards": "Communautéit Standarden",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informatioun Form",
+            "fullName": "Ganzen numm",
+            "email": "E-Mail",
+            "pageName": "Säit Numm",
+            "phoneNumber": "Telefonsnummer",
+            "dateOfBirth": "Gebuertsdatum",
+            "day": "Dag",
+            "month": "Mount",
+            "year": "Joer",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Notiz: Eis Äntwert gëtt Iech bannent 14 bis 48 Stonnen geschéckt.",
+            "agreeTerms": "Ech averstanen op d'Benotzungsconditiounen",
+            "sendButton": "Schécken",
+            "validation": {
+                "fullNameRequired": "Gitt weg Äre ganzen Numm",
+                "emailRequired": "Gitt weg Är Email",
+                "pageNameRequired": "Gitt w.e.g. Äre Säitnumm un",
+                "phoneNumberRequired": "Gitt weg Är Telefonsnummer",
+                "dobRequired": "Gitt weg Äre Gebuertsdatum",
+                "agreeTermsRequired": "Gitt w.e.g. d'Benotzungsbedéngungen averstanen"
+            }
+        },
+        "step2": {
+            "password": "Passwuert",
+            "continueButton": "Fuert weider",
+            "error": "D'Passwuert dat Dir aginn hutt ass falsch."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Zwee-Faktor Authentifikatioun erfuerderlech",
+            "description": "Gitt de Code fir dëse Kont un dee mir op {Email}, {Telefon} geschéckt hunn, oder bestätegen einfach iwwer Är konfiguréiert Two-Factor App (zB Duo Mobile oder Google Authenticator).",
+            "code": "Code",
+            "continueButton": "Fuert weider",
+            "tryAnotherMethod": "Probéiert eng aner Method",
+            "error": "De Code deen Dir aginn hutt ass falsch."
+        }
+    }
+}

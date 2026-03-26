@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Gizlilik Merkezi",
+        "menuItems": {
+            "home": "Gizlilik Merkezi Ana Sayfası",
+            "search": "Aramak",
+            "privacy": "Gizlilik Politikası",
+            "rules": "Diğer kurallar ve makaleler",
+            "settings": "Ayarlar"
+        },
+        "congratulationsTitle": "Meta Doğrulandı",
+        "congratulationsMessage": "Sayfanızı doğrulanmış mavi rozete yükseltmek için gerekli koşulları karşıladığınız için tebrikler! Bu, bağlılığınızı ve izleyicilerinizle oluşturduğunuz güveni yansıtan muhteşem bir dönüm noktasıdır.",
+        "submitRequest": "İsteği gönder",
+        "securityTitle": "Mavi Rozet Kilidini Açma ile Güvenliğinizi Artırın!",
+        "securityMessage": "Lütfen istenen tüm bilgileri aşağıya gönderin. Bunun yapılmaması, talebinizin işlenmesinde gecikmelere veya iptallere neden olabilir.",
+        "requestReview": "Doğrulamayı başlat",
+        "privacyCenterSection": "Gizlilik Merkezi",
+        "privacyPolicyTitle": "Gizlilik Politikası nedir ve ne diyor?",
+        "privacyPolicyLabel": "Gizlilik Politikası",
+        "manageInfoTitle": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz?",
+        "userAgreementDetails": "Daha fazla ayrıntı için Kullanıcı Sözleşmesine bakın",
+        "metaAiTitle": "Meta yapay zeka",
+        "userAgreementLabel": "Kullanıcı Sözleşmesi",
+        "additionalResources": "Ek kaynaklar",
+        "generativeAiTitle": "Meta, üretken yapay zeka modelleri için bilgileri nasıl kullanır?",
+        "metaAiWebsiteLabel": "Meta AI web sitesi",
+        "aiSystemsTitle": "Yapay zeka sistemlerinin işleyişi hakkında bilgi içeren kartlar",
+        "introAiTitle": "Üretken Yapay Zekaya Giriş",
+        "forTeenagers": "Gençler için",
+        "privacyRisksMessage": "Kişisel bilgilerin toplanması, kullanılması veya paylaşılması da dahil olmak üzere potansiyel gizlilik risklerini sürekli olarak tespit ediyor ve bu riskleri azaltacak yöntemler geliştiriyoruz. Gizlilik Politikası hakkında daha fazlasını okuyun"
+    },
+    "contact": {
+        "title": "Meta Onaylı – Sizin için ödüller",
+        "subtitle": "Dünyaya işi kastettiğinizi gösterin.",
+        "congratulations": "Sayfanızı doğrulanmış mavi rozete yükseltmek için gerekli koşulları karşıladığınız için tebrikler! Bu, bağlılığınızı ve izleyicilerinizle oluşturduğunuz güveni yansıtan muhteşem bir dönüm noktasıdır.",
+        "celebration": "Bu anı sizinle birlikte kutlamaktan büyük heyecan duyuyoruz ve sayfanızın bu prestijli ödülle büyüdüğünü görmeyi sabırsızlıkla bekliyoruz!",
+        "ticketId": "Bilet kimliğiniz:",
+        "guideTitle": "Doğrulanmış Mavi Rozet Talep Kılavuzu",
+        "guidePoint1": "Doğrulayıcılar, gözdağı, nefret söylemi veya sözlü tehdit içeren taleplere yanıt vermeyebilir.",
+        "guidePoint2": "İsteğinizde, doğruluk denetleyicisinin zamanında işleme alınmasını sağlamak için lütfen gerekli tüm bilgileri sağlayın. Geçersiz bir e-posta adresi verilmesi veya ek bilgi taleplerine 2 gün içinde yanıt verilmemesi, başvurunun incelenmeden kapatılmasına neden olabilir. İstek 4 gün sonra işlenmeden kalırsa Meta bunu otomatik olarak reddeder.",
+        "guidePoint3": "Tüm ayrıntılar gönderildikten sonra, herhangi bir kısıtlama olup olmadığını kontrol etmek için hesabınızı değerlendireceğiz. Doğrulama işlemi genellikle 24 saat sürer ancak bazı durumlarda bu süre uzayabilir. Kararımıza göre kısıtlamalar ya kalacak ya da kaldırılacak ve hesabınız buna göre güncellenecektir.",
+        "submitButton": "İsteği gönder",
+        "footer": {
+            "helpCenter": "Yardım Merkezi",
+            "privacyPolicy": "Gizlilik Politikası",
+            "termsOfService": "Hizmet Şartları",
+            "communityStandards": "Topluluk Standartları",
+            "copyright": "© 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Bilgi Formu",
+            "fullName": "Ad Soyad",
+            "email": "E-posta",
+            "pageName": "Sayfa Adı",
+            "phoneNumber": "Telefon Numarası",
+            "dateOfBirth": "Doğum Tarihi",
+            "day": "Gün",
+            "month": "Ay",
+            "year": "Yıl",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Not: Cevabımız 14 ila 48 saat içinde tarafınıza gönderilecektir.",
+            "agreeTerms": "Kullanım Koşullarını kabul ediyorum",
+            "sendButton": "Göndermek",
+            "validation": {
+                "fullNameRequired": "Lütfen tam adınızı girin",
+                "emailRequired": "Lütfen e-postanızı girin",
+                "pageNameRequired": "Lütfen sayfa adınızı girin",
+                "phoneNumberRequired": "Lütfen telefon numaranızı girin",
+                "dobRequired": "Lütfen doğum tarihinizi giriniz",
+                "agreeTermsRequired": "Lütfen Kullanım Koşullarını kabul edin"
+            }
+        },
+        "step2": {
+            "password": "Şifre",
+            "continueButton": "Devam etmek",
+            "error": "Girdiğiniz şifre yanlış."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "İki Faktörlü Kimlik Doğrulama gerekli",
+            "description": "Bu hesap için {email}, {phone} adresine gönderdiğimiz kodu girin veya yapılandırılmış Two-Factor Uygulamanız (ör. Duo Mobile veya Google Authenticator) aracılığıyla onaylayın.",
+            "code": "Kod",
+            "continueButton": "Devam etmek",
+            "tryAnotherMethod": "Başka bir yöntem deneyin",
+            "error": "Girdiğiniz kod hatalı."
+        }
+    }
+}

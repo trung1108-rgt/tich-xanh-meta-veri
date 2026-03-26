@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Privātuma centrs",
+        "menuItems": {
+            "home": "Privātuma centra mājas lapa",
+            "search": "Meklēt",
+            "privacy": "Privātuma politika",
+            "rules": "Citi noteikumi un panti",
+            "settings": "Iestatījumi"
+        },
+        "congratulationsTitle": "Meta Verified",
+        "congratulationsMessage": "Apsveicam ar prasību izpildi savas lapas jaunināšanai uz verificētu zilu emblēmu! Šis ir fantastisks pavērsiens, kas atspoguļo jūsu centību un uzticību, ko esat izveidojis ar savu auditoriju.",
+        "submitRequest": "Iesniedziet pieprasījumu",
+        "securityTitle": "Paaugstiniet savu drošību, atbloķējot zilo emblēmu!",
+        "securityMessage": "Lūdzu, tālāk iesniedziet visu pieprasīto informāciju. Ja tas netiks izdarīts, jūsu pieprasījuma apstrāde var aizkavēties vai tikt atcelta.",
+        "requestReview": "Sāciet verifikāciju",
+        "privacyCenterSection": "Privātuma centrs",
+        "privacyPolicyTitle": "Kas ir Privātuma politika un kas tajā ir teikts?",
+        "privacyPolicyLabel": "Privātuma politika",
+        "manageInfoTitle": "Kā jūs varat pārvaldīt vai dzēst savu informāciju",
+        "userAgreementDetails": "Sīkāku informāciju skatiet lietotāja līgumā",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Lietotāja līgums",
+        "additionalResources": "Papildu resursi",
+        "generativeAiTitle": "Kā Meta izmanto informāciju ģeneratīviem AI modeļiem",
+        "metaAiWebsiteLabel": "Meta AI vietne",
+        "aiSystemsTitle": "Kartes ar informāciju par AI sistēmu darbību",
+        "introAiTitle": "Ievads ģeneratīvajā AI",
+        "forTeenagers": "Pusaudžiem",
+        "privacyRisksMessage": "Mēs pastāvīgi identificējam iespējamos privātuma riskus, tostarp vācot, izmantojot vai kopīgojot personas informāciju, un izstrādājam metodes šo risku samazināšanai. Lasiet vairāk par Privātuma politiku"
+    },
+    "contact": {
+        "title": "Meta Verified — balvas jums",
+        "subtitle": "Parādiet pasaulei, ka jūs domājat biznesu.",
+        "congratulations": "Apsveicam ar prasību izpildi savas lapas jaunināšanai uz verificētu zilu emblēmu! Šis ir fantastisks pavērsiens, kas atspoguļo jūsu centību un uzticību, ko esat izveidojis ar savu auditoriju.",
+        "celebration": "Mēs priecājamies nosvinēt šo brīdi kopā ar jums un ceram, ka jūsu lapa uzplauks ar šo prestižo atzinību!",
+        "ticketId": "Jūsu biļetes ID:",
+        "guideTitle": "Verificēta zilās emblēmas pieprasījuma ceļvedis",
+        "guidePoint1": "Faktu pārbaudītāji nedrīkst atbildēt uz pieprasījumiem, kas satur iebiedēšanu, naida runu vai mutiskus draudus.",
+        "guidePoint2": "Savā pieprasījumā, lūdzu, sniedziet visu nepieciešamo informāciju, lai faktu pārbaudītājs varētu laikus apstrādāt. Iesniedzot nederīgu e-pasta adresi vai neatbildot uz papildu informācijas pieprasījumiem 2 dienu laikā, pieteikums var tikt slēgts bez izskatīšanas. Ja pieprasījums paliek neapstrādāts pēc 4 dienām, Meta to automātiski noraidīs.",
+        "guidePoint3": "Kad visa informācija būs iesniegta, mēs izvērtēsim jūsu kontu, lai pārbaudītu, vai nav ierobežojumu. Verifikācijas process parasti ilgst 24 stundas, lai gan dažos gadījumos tas var pagarināties. Pamatojoties uz mūsu lēmumu, ierobežojumi paliks vai tiks atcelti, un jūsu konts tiks attiecīgi atjaunināts.",
+        "submitButton": "Iesniedziet pieprasījumu",
+        "footer": {
+            "helpCenter": "Palīdzības centrs",
+            "privacyPolicy": "Privātuma politika",
+            "termsOfService": "Pakalpojuma noteikumi",
+            "communityStandards": "Kopienas standarti",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informācijas veidlapa",
+            "fullName": "Pilns vārds",
+            "email": "E-pasts",
+            "pageName": "Lapas nosaukums",
+            "phoneNumber": "Tālruņa numurs",
+            "dateOfBirth": "Dzimšanas datums",
+            "day": "diena",
+            "month": "Mēnesis",
+            "year": "gads",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Piezīme. Mūsu atbilde jums tiks nosūtīta 14–48 stundu laikā.",
+            "agreeTerms": "Es piekrītu lietošanas noteikumiem",
+            "sendButton": "Sūtīt",
+            "validation": {
+                "fullNameRequired": "Lūdzu, ievadiet savu pilno vārdu",
+                "emailRequired": "Lūdzu, ievadiet savu e-pastu",
+                "pageNameRequired": "Lūdzu, ievadiet savas lapas nosaukumu",
+                "phoneNumberRequired": "Lūdzu, ievadiet savu tālruņa numuru",
+                "dobRequired": "Lūdzu, ievadiet savu dzimšanas datumu",
+                "agreeTermsRequired": "Lūdzu, piekrītiet lietošanas noteikumiem"
+            }
+        },
+        "step2": {
+            "password": "Parole",
+            "continueButton": "Turpināt",
+            "error": "Ievadītā parole nav pareiza."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Nepieciešama divu faktoru autentifikācija",
+            "description": "Ievadiet šī konta kodu, ko nosūtījām uz {email}, {phone}, vai vienkārši apstipriniet, izmantojot savu konfigurēto divu faktoru lietotni (piem., Duo Mobile vai Google Authenticator).",
+            "code": "Kods",
+            "continueButton": "Turpināt",
+            "tryAnotherMethod": "Izmēģiniet citu metodi",
+            "error": "Ievadītais kods nav pareizs."
+        }
+    }
+}

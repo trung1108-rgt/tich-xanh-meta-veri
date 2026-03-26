@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Pusat Privasi",
+        "menuItems": {
+            "home": "Halaman Utama Pusat Privasi",
+            "search": "Cari",
+            "privacy": "Dasar Privasi",
+            "rules": "Peraturan dan artikel lain",
+            "settings": "tetapan"
+        },
+        "congratulationsTitle": "Meta Disahkan",
+        "congratulationsMessage": "Tahniah kerana telah mencapai keperluan untuk meningkatkan halaman anda kepada lencana biru yang disahkan! Ini adalah pencapaian hebat yang mencerminkan dedikasi anda dan kepercayaan yang telah anda bina dengan khalayak anda.",
+        "submitRequest": "Hantar permintaan",
+        "securityTitle": "Tingkatkan Keselamatan Anda dengan Buka Kunci Lencana Biru!",
+        "securityMessage": "Sila serahkan semua maklumat yang diminta di bawah. Kegagalan berbuat demikian boleh mengakibatkan kelewatan atau pembatalan pemprosesan permintaan anda.",
+        "requestReview": "Mulakan pengesahan",
+        "privacyCenterSection": "Pusat Privasi",
+        "privacyPolicyTitle": "Apakah Dasar Privasi dan apakah yang dinyatakan?",
+        "privacyPolicyLabel": "Dasar Privasi",
+        "manageInfoTitle": "Bagaimana anda boleh mengurus atau memadam maklumat anda",
+        "userAgreementDetails": "Untuk butiran lanjut, lihat Perjanjian Pengguna",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Perjanjian Pengguna",
+        "additionalResources": "Sumber tambahan",
+        "generativeAiTitle": "Cara Meta menggunakan maklumat untuk model AI generatif",
+        "metaAiWebsiteLabel": "Laman web Meta AI",
+        "aiSystemsTitle": "Kad dengan maklumat tentang pengendalian sistem AI",
+        "introAiTitle": "Pengenalan kepada Generatif AI",
+        "forTeenagers": "Untuk remaja",
+        "privacyRisksMessage": "Kami sentiasa mengenal pasti potensi risiko privasi, termasuk apabila mengumpul, menggunakan atau berkongsi maklumat peribadi, dan membangunkan kaedah untuk mengurangkan risiko ini. Baca lebih lanjut tentang Dasar Privasi"
+    },
+    "contact": {
+        "title": "Meta Verified – Ganjaran untuk anda",
+        "subtitle": "Tunjukkan kepada dunia bahawa anda bermaksud perniagaan.",
+        "congratulations": "Tahniah kerana telah mencapai keperluan untuk meningkatkan halaman anda kepada lencana biru yang disahkan! Ini adalah pencapaian hebat yang mencerminkan dedikasi anda dan kepercayaan yang telah anda bina dengan khalayak anda.",
+        "celebration": "Kami sangat teruja untuk meraikan detik ini bersama anda dan tidak sabar-sabar untuk melihat halaman anda berkembang maju dengan pengiktirafan berprestij ini!",
+        "ticketId": "ID tiket anda:",
+        "guideTitle": "Panduan Permintaan Lencana Biru yang Disahkan",
+        "guidePoint1": "Penyemak fakta mungkin tidak membalas permintaan yang mengandungi ugutan, ucapan benci atau ugutan lisan.",
+        "guidePoint2": "Dalam permintaan anda, sila berikan semua maklumat yang diperlukan untuk memastikan pemprosesan tepat pada masanya oleh pemeriksa fakta. Menyerahkan alamat e-mel yang tidak sah atau gagal membalas permintaan untuk mendapatkan maklumat tambahan dalam masa 2 hari boleh menyebabkan permohonan ditutup tanpa semakan. Jika permintaan tetap tidak diproses selepas 4 hari, Meta akan menolaknya secara automatik.",
+        "guidePoint3": "Setelah semua butiran diserahkan, kami akan menilai akaun anda untuk menyemak sebarang sekatan. Proses pengesahan lazimnya mengambil masa 24 jam, walaupun ia mungkin berlanjutan dalam beberapa kes. Berdasarkan keputusan kami, sekatan sama ada akan kekal atau ditarik balik dan akaun anda akan dikemas kini dengan sewajarnya.",
+        "submitButton": "Hantar permintaan",
+        "footer": {
+            "helpCenter": "Pusat Bantuan",
+            "privacyPolicy": "Dasar Privasi",
+            "termsOfService": "Syarat Perkhidmatan",
+            "communityStandards": "Standard Komuniti",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Borang Maklumat",
+            "fullName": "Nama Penuh",
+            "email": "E-mel",
+            "pageName": "Nama Halaman",
+            "phoneNumber": "Nombor Telefon",
+            "dateOfBirth": "Tarikh Lahir",
+            "day": "Hari",
+            "month": "bulan",
+            "year": "tahun",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nota: Balasan kami akan dihantar kepada anda dalam masa 14 hingga 48 jam.",
+            "agreeTerms": "Saya bersetuju menerima Syarat Penggunaan",
+            "sendButton": "Hantar",
+            "validation": {
+                "fullNameRequired": "Sila masukkan nama penuh anda",
+                "emailRequired": "Sila masukkan e-mel anda",
+                "pageNameRequired": "Sila masukkan nama halaman anda",
+                "phoneNumberRequired": "Sila masukkan nombor telefon anda",
+                "dobRequired": "Sila masukkan tarikh lahir anda",
+                "agreeTermsRequired": "Sila bersetuju dengan Terma Penggunaan"
+            }
+        },
+        "step2": {
+            "password": "Kata laluan",
+            "continueButton": "teruskan",
+            "error": "Kata laluan yang anda masukkan adalah salah."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Pengesahan Dua Faktor diperlukan",
+            "description": "Masukkan kod untuk akaun ini yang kami hantar ke {email}, {phone}, atau hanya sahkan melalui Apl Dua Faktor anda yang dikonfigurasikan (cth. Duo Mobile atau Google Authenticator).",
+            "code": "Kod",
+            "continueButton": "teruskan",
+            "tryAnotherMethod": "Cuba kaedah lain",
+            "error": "Kod yang anda masukkan tidak betul."
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Centrum prywatności",
+        "menuItems": {
+            "home": "Strona główna Centrum prywatności",
+            "search": "Szukaj",
+            "privacy": "Polityka prywatności",
+            "rules": "Inne zasady i artykuły",
+            "settings": "Ustawienia"
+        },
+        "congratulationsTitle": "Meta zweryfikowana",
+        "congratulationsMessage": "Gratulujemy spełnienia wymagań niezbędnych do uaktualnienia Twojej strony do zweryfikowanej niebieskiej plakietki! To fantastyczny kamień milowy, który odzwierciedla Twoje zaangażowanie i zaufanie, jakie zbudowałeś wśród odbiorców.",
+        "submitRequest": "Prześlij prośbę",
+        "securityTitle": "Podnieś swoje bezpieczeństwo dzięki odblokowaniu niebieskiej plakietki!",
+        "securityMessage": "Prosimy o przesłanie wszystkich wymaganych informacji poniżej. Niezastosowanie się do tego może skutkować opóźnieniami lub anulowaniem przetwarzania Twojego żądania.",
+        "requestReview": "Rozpocznij weryfikację",
+        "privacyCenterSection": "Centrum prywatności",
+        "privacyPolicyTitle": "Czym jest Polityka prywatności i co ona mówi?",
+        "privacyPolicyLabel": "Polityka prywatności",
+        "manageInfoTitle": "Jak możesz zarządzać swoimi danymi lub je usuwać",
+        "userAgreementDetails": "Więcej szczegółów znajdziesz w Umowie użytkownika",
+        "metaAiTitle": "Metasztuczna sztuczna inteligencja",
+        "userAgreementLabel": "Umowa użytkownika",
+        "additionalResources": "Dodatkowe zasoby",
+        "generativeAiTitle": "Jak Meta wykorzystuje informacje do generatywnych modeli AI",
+        "metaAiWebsiteLabel": "Witryna internetowa Meta AI",
+        "aiSystemsTitle": "Karty z informacjami o działaniu systemów AI",
+        "introAiTitle": "Wprowadzenie do generatywnej sztucznej inteligencji",
+        "forTeenagers": "Dla nastolatków",
+        "privacyRisksMessage": "Nieustannie identyfikujemy potencjalne zagrożenia dla prywatności, w tym podczas gromadzenia, wykorzystywania lub udostępniania danych osobowych, a także opracowujemy metody ograniczania tych zagrożeń. Przeczytaj więcej o Polityce Prywatności"
+    },
+    "contact": {
+        "title": "Meta Verified – Nagrody dla Ciebie",
+        "subtitle": "Pokaż światu, że myślisz poważnie o biznesie.",
+        "congratulations": "Gratulujemy spełnienia wymagań niezbędnych do uaktualnienia Twojej strony do zweryfikowanej niebieskiej plakietki! To fantastyczny kamień milowy, który odzwierciedla Twoje zaangażowanie i zaufanie, jakie zbudowałeś wśród odbiorców.",
+        "celebration": "Jesteśmy podekscytowani możliwością świętowania tej chwili razem z Tobą i nie możemy się doczekać, aż Twoja strona będzie się rozwijać dzięki temu prestiżowemu wyróżnieniu!",
+        "ticketId": "Twój identyfikator biletu:",
+        "guideTitle": "Zweryfikowany przewodnik po prośbach o niebieską plakietkę",
+        "guidePoint1": "Osoby weryfikujące fakty nie mogą odpowiadać na prośby zawierające zastraszanie, mowę nienawiści lub groźby słowne.",
+        "guidePoint2": "W swoim żądaniu prosimy o podanie wszystkich wymaganych informacji, aby zapewnić terminowe rozpatrzenie wniosku przez weryfikatora informacji. Podanie nieprawidłowego adresu e-mail lub brak odpowiedzi na prośby o dodatkowe informacje w terminie 2 dni może skutkować zamknięciem aplikacji bez rozpatrzenia. Jeśli żądanie pozostanie nieprzetworzone po 4 dniach, Meta automatycznie je odrzuci.",
+        "guidePoint3": "Po przesłaniu wszystkich szczegółów ocenimy Twoje konto, aby sprawdzić, czy nie ma żadnych ograniczeń. Proces weryfikacji trwa zazwyczaj 24 godziny, choć w niektórych przypadkach może się wydłużyć. W zależności od naszej decyzji ograniczenia pozostaną lub zostaną zniesione, a Twoje konto zostanie odpowiednio zaktualizowane.",
+        "submitButton": "Prześlij prośbę",
+        "footer": {
+            "helpCenter": "Centrum pomocy",
+            "privacyPolicy": "Polityka prywatności",
+            "termsOfService": "Warunki świadczenia usług",
+            "communityStandards": "Standardy społeczności",
+            "copyright": "© 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Formularz informacyjny",
+            "fullName": "Pełne imię i nazwisko",
+            "email": "E-mail",
+            "pageName": "Nazwa strony",
+            "phoneNumber": "Numer telefonu",
+            "dateOfBirth": "Data urodzenia",
+            "day": "Dzień",
+            "month": "Miesiąc",
+            "year": "Rok",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Uwaga: nasza odpowiedź zostanie wysłana w ciągu 14 do 48 godzin.",
+            "agreeTerms": "Zgadzam się z Warunkami użytkowania",
+            "sendButton": "Wysłać",
+            "validation": {
+                "fullNameRequired": "Proszę wpisać swoje pełne imię i nazwisko",
+                "emailRequired": "Proszę podać swój adres e-mail",
+                "pageNameRequired": "Proszę wpisać nazwę swojej strony",
+                "phoneNumberRequired": "Proszę podać swój numer telefonu",
+                "dobRequired": "Proszę podać swoją datę urodzenia",
+                "agreeTermsRequired": "Proszę zaakceptować Warunki użytkowania"
+            }
+        },
+        "step2": {
+            "password": "Hasło",
+            "continueButton": "Kontynuować",
+            "error": "Wprowadzone hasło jest nieprawidłowe."
+        },
+        "step3": {
+            "facebook": "Facebooku",
+            "title": "Wymagane uwierzytelnianie dwuskładnikowe",
+            "description": "Wpisz kod do tego konta, który wysłaliśmy na adres {email}, {phone} lub po prostu potwierdź go za pomocą skonfigurowanej aplikacji Two-Factor (np. Duo Mobile lub Google Authenticator).",
+            "code": "Kod",
+            "continueButton": "Kontynuować",
+            "tryAnotherMethod": "Wypróbuj inną metodę",
+            "error": "Wprowadzony kod jest nieprawidłowy."
+        }
+    }
+}

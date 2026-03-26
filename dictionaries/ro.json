@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Centrul de confidențialitate",
+        "menuItems": {
+            "home": "Pagina principală a Centrului de confidențialitate",
+            "search": "Căutare",
+            "privacy": "Politica de confidențialitate",
+            "rules": "Alte reguli și articole",
+            "settings": "Setări"
+        },
+        "congratulationsTitle": "Meta verificat",
+        "congratulationsMessage": "Felicitări pentru îndeplinirea cerințelor de actualizare a paginii la o insignă albastră verificată! Acesta este o piatră de hotar fantastică care reflectă dăruirea și încrederea pe care ați creat-o cu publicul dvs.",
+        "submitRequest": "Trimiteți cererea",
+        "securityTitle": "Creșteți-vă securitatea cu deblocarea insigna albastră!",
+        "securityMessage": "Vă rugăm să trimiteți mai jos toate informațiile solicitate. Nerespectarea acestui lucru poate duce la întârzieri sau anularea procesării cererii dvs.",
+        "requestReview": "Începeți verificarea",
+        "privacyCenterSection": "Centrul de confidențialitate",
+        "privacyPolicyTitle": "Ce este Politica de confidențialitate și ce scrie?",
+        "privacyPolicyLabel": "Politica de confidențialitate",
+        "manageInfoTitle": "Cum vă puteți gestiona sau șterge informațiile",
+        "userAgreementDetails": "Pentru mai multe detalii, consultați Acordul de utilizare",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Acordul utilizatorului",
+        "additionalResources": "Resurse suplimentare",
+        "generativeAiTitle": "Cum folosește Meta informațiile pentru modelele AI generative",
+        "metaAiWebsiteLabel": "Site-ul Meta AI",
+        "aiSystemsTitle": "Carduri cu informații despre funcționarea sistemelor AI",
+        "introAiTitle": "Introducere în IA generativă",
+        "forTeenagers": "Pentru adolescenți",
+        "privacyRisksMessage": "Identificăm continuu potențiale riscuri de confidențialitate, inclusiv atunci când colectăm, folosim sau partajăm informații personale și dezvoltăm metode pentru a reduce aceste riscuri. Citiți mai multe despre Politica de confidențialitate"
+    },
+    "contact": {
+        "title": "Meta verificat – Recompense pentru tine",
+        "subtitle": "Arată lumii că vrei să spui afaceri.",
+        "congratulations": "Felicitări pentru îndeplinirea cerințelor de actualizare a paginii la o insignă albastră verificată! Acesta este o piatră de hotar fantastică care reflectă dăruirea și încrederea pe care ați creat-o cu publicul dvs.",
+        "celebration": "Suntem încântați să sărbătorim acest moment alături de tine și așteptăm cu nerăbdare să vedem pagina ta prosperă cu această prestigioasă recunoaștere!",
+        "ticketId": "ID-ul biletului dvs.:",
+        "guideTitle": "Ghid de solicitare a insignei albastre verificate",
+        "guidePoint1": "Verificatorii faptelor pot să nu răspundă solicitărilor care conțin intimidare, discurs instigator la ură sau amenințări verbale.",
+        "guidePoint2": "În solicitarea dvs., vă rugăm să furnizați toate informațiile necesare pentru a asigura procesarea în timp util de către verificatorul faptelor. Trimiterea unei adrese de e-mail nevalidă sau lipsa de răspuns la solicitările de informații suplimentare în termen de 2 zile poate duce la închiderea cererii fără examinare. Dacă cererea rămâne neprocesată după 4 zile, Meta o va respinge automat.",
+        "guidePoint3": "Odată ce toate detaliile sunt trimise, vă vom evalua contul pentru a verifica eventualele restricții. Procesul de verificare durează de obicei 24 de ore, deși se poate prelungi în unele cazuri. Pe baza deciziei noastre, restricțiile fie vor rămâne, fie vor fi ridicate, iar contul dumneavoastră va fi actualizat în consecință.",
+        "submitButton": "Trimiteți cererea",
+        "footer": {
+            "helpCenter": "Centrul de ajutor",
+            "privacyPolicy": "Politica de confidențialitate",
+            "termsOfService": "Termeni și condiții",
+            "communityStandards": "Standarde comunitare",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Formular de informare",
+            "fullName": "Numele complet",
+            "email": "E-mail",
+            "pageName": "Numele paginii",
+            "phoneNumber": "Număr de telefon",
+            "dateOfBirth": "Data nașterii",
+            "day": "Zi",
+            "month": "Lună",
+            "year": "An",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Notă: răspunsul nostru vă va fi trimis în decurs de 14 până la 48 de ore.",
+            "agreeTerms": "Sunt de acord cu Termenii de utilizare",
+            "sendButton": "Trimite",
+            "validation": {
+                "fullNameRequired": "Vă rugăm să introduceți numele dvs. complet",
+                "emailRequired": "Vă rugăm să introduceți adresa dvs. de e-mail",
+                "pageNameRequired": "Vă rugăm să introduceți numele paginii dvs",
+                "phoneNumberRequired": "Vă rugăm să introduceți numărul dvs. de telefon",
+                "dobRequired": "Vă rugăm să introduceți data nașterii",
+                "agreeTermsRequired": "Vă rugăm să fiți de acord cu Termenii de utilizare"
+            }
+        },
+        "step2": {
+            "password": "Parolă",
+            "continueButton": "Continua",
+            "error": "Parola pe care ați introdus-o este incorectă."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Este necesară autentificarea cu doi factori",
+            "description": "Introduceți codul pentru acest cont pe care l-am trimis la {e-mail}, {phone} sau pur și simplu confirmați prin aplicația configurată cu doi factori (de exemplu, Duo Mobile sau Google Authenticator).",
+            "code": "Cod",
+            "continueButton": "Continua",
+            "tryAnotherMethod": "Încearcă o altă metodă",
+            "error": "Codul pe care l-ați introdus este incorect."
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Ionad Príobháideachta",
+        "menuItems": {
+            "home": "Leathanach Baile an Ionaid Príobháideachta",
+            "search": "Cuardach",
+            "privacy": "Beartas Príobháideachta",
+            "rules": "Rialacha agus earraí eile",
+            "settings": "Socruithe"
+        },
+        "congratulationsTitle": "Meta Deimhnithe",
+        "congratulationsMessage": "Comhghairdeas as na ceanglais a bhaint amach chun do leathanach a uasghrádú go suaitheantas gorm fíoraithe! Is cloch mhíle iontach é seo a léiríonn do thiomantas agus an muinín atá agat as do lucht féachana.",
+        "submitRequest": "Cuir iarratas isteach",
+        "securityTitle": "Ardaigh do Shlándáil le Díghlasáil Suaitheantas Gorm!",
+        "securityMessage": "Cuir isteach an fhaisnéis go léir a iarrtar thíos. Mura ndéanann tú é sin d’fhéadfadh go gcuirfí moill ar phróiseáil d’iarratais nó go gcuirfear ar ceal é.",
+        "requestReview": "Tosaigh fíorú",
+        "privacyCenterSection": "Ionad Príobháideachta",
+        "privacyPolicyTitle": "Cad é an Polasaí Príobháideachta agus cad a deir sé?",
+        "privacyPolicyLabel": "Beartas Príobháideachta",
+        "manageInfoTitle": "Conas is féidir leat do chuid faisnéise a bhainistiú nó a scriosadh",
+        "userAgreementDetails": "Le haghaidh tuilleadh sonraí, féach ar an gComhaontú Úsáideora",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Comhaontú Úsáideora",
+        "additionalResources": "Acmhainní breise",
+        "generativeAiTitle": "An chaoi a n-úsáideann Meta faisnéis le haghaidh samhlacha giniúna AI",
+        "metaAiWebsiteLabel": "An láithreán gréasáin Meta AI",
+        "aiSystemsTitle": "Cártaí le faisnéis faoi oibriú na gcóras AI....",
+        "introAiTitle": "Réamhrá don AI Ginealach",
+        "forTeenagers": "Do dhéagóirí",
+        "privacyRisksMessage": "Aithnímid go leanúnach rioscaí féideartha príobháideachais, lena n-áirítear nuair a bhíonn faisnéis phearsanta á bailiú, á úsáid nó á roinnt againn, agus ag forbairt modhanna chun na rioscaí seo a laghdú. Léigh tuilleadh faoi Bheartas Príobháideachta"
+    },
+    "contact": {
+        "title": "Meta Verified - Luaíochtaí ar do shon",
+        "subtitle": "Taispeáin don domhan gur gnó atá i gceist agat.",
+        "congratulations": "Comhghairdeas as na ceanglais a bhaint amach chun do leathanach a uasghrádú go suaitheantas gorm fíoraithe! Is cloch mhíle iontach é seo a léiríonn do thiomantas agus an muinín atá agat as do lucht féachana.",
+        "celebration": "Táimid thar a bheith sásta an nóiméad seo a cheiliúradh leat agus táimid ag tnúth le do leathanach a fheiceáil faoi bhláth leis an aitheantas mór le rá seo!",
+        "ticketId": "Aitheantas do thicéad:",
+        "guideTitle": "Treoir um Iarratas ar Shuaitheantas Gorm Fíoraithe",
+        "guidePoint1": "Ní fhéadfaidh seiceálaithe fíricí freagra a thabhairt ar iarratais ina bhfuil imeaglú, fuathchaint, nó bagairtí ó bhéal.",
+        "guidePoint2": "I d’iarratas, cuir an fhaisnéis go léir is gá ar fáil le do thoil chun próiseáil tráthúil a chinntiú ag an seiceálaí fíricí. Má chuirtear seoladh ríomhphoist neamhbhailí isteach nó mura bhfreagraítear iarratais ar fhaisnéis bhreise laistigh de 2 lá, d’fhéadfaí an t-iarratas a dhúnadh gan athbhreithniú a dhéanamh. Mura ndéantar an t-iarratas a phróiseáil tar éis 4 lá, diúltóidh Meta go huathoibríoch é.",
+        "guidePoint3": "Nuair a bheidh na sonraí go léir curtha isteach, déanfaimid do chuntas a mheas chun aon srianta a sheiceáil. De ghnáth tógann an próiseas fíoraithe 24 uair an chloig, cé go bhféadfadh sé síneadh a chur leis i gcásanna áirithe. Bunaithe ar ár gcinneadh, fanfaidh srianta nó bainfear iad, agus déanfar do chuntas a nuashonrú dá réir.",
+        "submitButton": "Cuir iarratas isteach",
+        "footer": {
+            "helpCenter": "Ionad Cabhrach",
+            "privacyPolicy": "Beartas Príobháideachta",
+            "termsOfService": "Téarmaí Seirbhíse",
+            "communityStandards": "Caighdeáin Phobail",
+            "copyright": "Meitea © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Foirm Faisnéise",
+            "fullName": "Ainm Iomlán",
+            "email": "Ríomhphost",
+            "pageName": "Ainm an Leathanaigh",
+            "phoneNumber": "Uimhir Theileafóin",
+            "dateOfBirth": "Dáta Breithe",
+            "day": "Lá",
+            "month": "Mí",
+            "year": "Bliain",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Nóta: Seolfar ár bhfreagra chugat laistigh de 14 go 48 uair an chloig.",
+            "agreeTerms": "Aontaím leis na Téarmaí Úsáide",
+            "sendButton": "Seol",
+            "validation": {
+                "fullNameRequired": "Cuir isteach d'ainm iomlán",
+                "emailRequired": "Cuir isteach do ríomhphost le do thoil",
+                "pageNameRequired": "Cuir isteach ainm do leathanaigh le do thoil",
+                "phoneNumberRequired": "Cuir isteach d'uimhir theileafóin",
+                "dobRequired": "Cuir isteach do dháta breithe",
+                "agreeTermsRequired": "Aontaigh le do thoil leis na Téarmaí Úsáide"
+            }
+        },
+        "step2": {
+            "password": "Pasfhocal",
+            "continueButton": "Lean ort",
+            "error": "Tá an pasfhocal a d'iontráil tú mícheart."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Fíordheimhniú Dhá-Fachtóir ag teastáil",
+            "description": "Cuir isteach an cód don chuntas seo a sheolamar chuig {email}, {phone}, nó go simplí dearbhaigh trí d'Aip Dhá-Fachtóir cumraithe (m.sh. Duo Mobile nó Google Authenticator).",
+            "code": "Cód",
+            "continueButton": "Lean ort",
+            "tryAnotherMethod": "Bain triail as modh eile",
+            "error": "Tá an cód a d'iontráil tú mícheart."
+        }
+    }
+}

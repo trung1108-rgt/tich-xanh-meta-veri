@@ -1,0 +1,103 @@
+{
+    "privacyCenter": {
+        "title": "Centrum ochrany osobných údajov",
+        "menuItems": {
+            "home": "Domovská stránka Centra ochrany osobných údajov",
+            "search": "Hľadať",
+            "privacy": "Zásady ochrany osobných údajov",
+            "rules": "Ďalšie pravidlá a články",
+            "settings": "Nastavenia"
+        },
+        "congratulationsTitle": "Meta overené",
+        "congratulationsMessage": "Gratulujeme k splneniu požiadaviek na inováciu vašej stránky na overený modrý odznak! Toto je fantastický míľnik, ktorý odráža vašu oddanosť a dôveru, ktorú ste si u svojho publika vybudovali.",
+        "submitRequest": "Odoslať žiadosť",
+        "securityTitle": "Zvýšte svoju bezpečnosť pomocou odomknutia modrého odznaku!",
+        "securityMessage": "Nižšie odošlite všetky požadované informácie. Ak tak neurobíte, môže dôjsť k oneskoreniu alebo zrušeniu spracovania vašej žiadosti.",
+        "requestReview": "Spustite overovanie",
+        "privacyCenterSection": "Centrum ochrany osobných údajov",
+        "privacyPolicyTitle": "Čo sú to Zásady ochrany osobných údajov a čo obsahujú?",
+        "privacyPolicyLabel": "Zásady ochrany osobných údajov",
+        "manageInfoTitle": "Ako môžete spravovať alebo vymazať svoje informácie",
+        "userAgreementDetails": "Ďalšie podrobnosti nájdete v zmluve s používateľom",
+        "metaAiTitle": "Meta AI",
+        "userAgreementLabel": "Používateľská zmluva",
+        "additionalResources": "Dodatočné zdroje",
+        "generativeAiTitle": "Ako Meta používa informácie pre generatívne modely AI",
+        "metaAiWebsiteLabel": "Webová stránka Meta AI",
+        "aiSystemsTitle": "Karty s informáciami o fungovaní systémov AI",
+        "introAiTitle": "Úvod do generatívnej AI",
+        "forTeenagers": "Pre tínedžerov",
+        "privacyRisksMessage": "Neustále identifikujeme potenciálne riziká ochrany súkromia, a to aj pri zhromažďovaní, používaní alebo zdieľaní osobných údajov, a vyvíjame metódy na zníženie týchto rizík. Prečítajte si viac o zásadách ochrany osobných údajov"
+    },
+    "contact": {
+        "title": "Meta Verified – odmeny pre vás",
+        "subtitle": "Ukážte svetu, že to myslíte vážne.",
+        "congratulations": "Gratulujeme k splneniu požiadaviek na inováciu vašej stránky na overený modrý odznak! Toto je fantastický míľnik, ktorý odráža vašu oddanosť a dôveru, ktorú ste si u svojho publika vybudovali.",
+        "celebration": "Sme nadšení, že môžeme tento okamih osláviť s vami a tešíme sa, že vaša stránka bude prosperovať s týmto prestížnym uznaním!",
+        "ticketId": "ID vášho lístka:",
+        "guideTitle": "Overený sprievodca žiadosťou o modrý odznak",
+        "guidePoint1": "Kontrolóri faktov nemusia reagovať na žiadosti obsahujúce zastrašovanie, nenávistné prejavy alebo verbálne vyhrážky.",
+        "guidePoint2": "Vo svojej žiadosti uveďte všetky požadované informácie, aby kontrolór faktov zabezpečil včasné spracovanie. Odoslanie neplatnej e-mailovej adresy alebo neodpovedanie na žiadosti o dodatočné informácie do 2 dní môže viesť k uzavretiu aplikácie bez kontroly. Ak žiadosť zostane nespracovaná po 4 dňoch, Meta ju automaticky zamietne.",
+        "guidePoint3": "Po odoslaní všetkých podrobností vyhodnotíme váš účet, aby sme skontrolovali prípadné obmedzenia. Proces overenia zvyčajne trvá 24 hodín, aj keď sa môže v niektorých prípadoch predĺžiť. Na základe nášho rozhodnutia obmedzenia zostanú alebo budú zrušené a váš účet bude zodpovedajúcim spôsobom aktualizovaný.",
+        "submitButton": "Odoslať žiadosť",
+        "footer": {
+            "helpCenter": "Centrum pomoci",
+            "privacyPolicy": "Zásady ochrany osobných údajov",
+            "termsOfService": "Zmluvné podmienky",
+            "communityStandards": "normy Spoločenstva",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informačný formulár",
+            "fullName": "Celé meno",
+            "email": "Email",
+            "pageName": "Názov stránky",
+            "phoneNumber": "Telefónne číslo",
+            "dateOfBirth": "Dátum narodenia",
+            "day": "deň",
+            "month": "mesiac",
+            "year": "rok",
+            "months": {
+                "january": "1",
+                "february": "2",
+                "march": "3",
+                "april": "4",
+                "may": "5",
+                "june": "6",
+                "july": "7",
+                "august": "8",
+                "september": "9",
+                "october": "10",
+                "november": "11",
+                "december": "12"
+            },
+            "note": "Poznámka: Naša odpoveď vám bude zaslaná do 14 až 48 hodín.",
+            "agreeTerms": "Súhlasím s Podmienkami používania",
+            "sendButton": "Odoslať",
+            "validation": {
+                "fullNameRequired": "Zadajte svoje celé meno",
+                "emailRequired": "Zadajte svoj email",
+                "pageNameRequired": "Zadajte názov svojej stránky",
+                "phoneNumberRequired": "Zadajte svoje telefónne číslo",
+                "dobRequired": "Zadajte dátum narodenia",
+                "agreeTermsRequired": "Vyjadrite súhlas s Podmienkami používania"
+            }
+        },
+        "step2": {
+            "password": "heslo",
+            "continueButton": "Pokračovať",
+            "error": "Heslo, ktoré ste zadali, je nesprávne."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Vyžaduje sa dvojfaktorové overenie",
+            "description": "Zadajte kód pre tento účet, ktorý sme poslali na {email}, {phone}, alebo ho jednoducho potvrďte prostredníctvom nakonfigurovanej dvojfaktorovej aplikácie (napr. Duo Mobile alebo Google Authenticator).",
+            "code": "kód",
+            "continueButton": "Pokračovať",
+            "tryAnotherMethod": "Skúste inú metódu",
+            "error": "Kód, ktorý ste zadali, je nesprávny."
+        }
+    }
+}
